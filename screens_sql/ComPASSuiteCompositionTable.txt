@@ -1,0 +1,103 @@
+The ComPAS Suite Composition Table								
+								
+Number	"Plate number, well
+(24-well plates)"	"Well
+(96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.
+(Refill-Hit Solution,
+4 x 12,5 ml tubes)"
+1	 1,A1	A1	0.1 M Potassium chloride			12 %(w/v) PEG 8000	5 %(w/v) Glycerol	135601
+2	 1,A2	A2	0.5 M Potassium chloride			12 %(w/v) PEG 8000	10 %(w/v) Glycerol	135602
+3	 1,A3	A3	0.2 M Ammonium sulfate			15 %(w/v) PEG 8000		135603
+4	 1,A4	A4	0.5 M Lithium sulfate			15 %(w/v) PEG 8000		135604
+5	 1,A5	A5	0.2 M Sodium acetate 		0.1 M MES sodium salt pH 6.5	15 %(w/v) PEG 8000		135605
+6	 1,A6	A6	0.05 M Ammonium sulfate	0.1 M tri-Sodium citrate		15 %(w/v) PEG 8000		135606
+7	 1,B1	A7	0.2 M Calcium acetate		0.1 M HEPES sodium salt pH 7.5	18 %(w/v) PEG 8000		135607
+8	 1,B2	A8	0.1 M Sodium acetate 		0.1 M HEPES sodium salt pH 7.5	18 %(w/v) PEG 8000	2 %(w/v) Isopropanol	135608
+9	 1,B3	A9	0.2 M Lithium sulfate		0.1 M TRIS.HCl pH 8.5	18 %(w/v) PEG 8000		135609
+10	 1,B4	A10			0.1 M HEPES sodium salt pH 7.5	20 %(w/v) PEG 8000		135610
+11	 1,B5	A11	0.2 M Magnesium acetate		0.1 M MES sodium salt pH 6.5	20 %(w/v) PEG 8000		135611
+12	 1,B6	A12			0.1 M CHES pH 9.5	20 %(w/v) PEG 8000		135612
+13	 1,C1	B1	0.2 M Ammonium sulfate		0.1 M MES sodium salt pH 6.5	22 %(w/v) PEG 8000		135613
+14	 1,C2	B2	0.2 M Lithium chloride			25 %(w/v) PEG 8000		135614
+15	 1,C3	B3	0.2 M Ammonium sulfate			30 %(w/v) PEG 8000		135615
+16	 1,C4	B4			0.1 M Sodium acetate pH 4.6	8 %(w/v) PEG 10000		135616
+17	 1,C5	B5			0.1 M Imidazole.HCl pH 8.0	14 %(w/v) PEG 10000		135617
+18	 1,C6	B6			0.1 M TRIS.HCl pH 8.5	16 %(w/v) PEG 10000		135618
+19	 1,D1	B7	0.1 M Sodium chloride		0.1 M TRIS.HCl pH 8.5	18 %(w/v) PEG 10000	20 %(w/v) Glycerol	135619
+20	 1,D2	B8			0.1 M HEPES sodium salt pH 7.5	20 %(w/v) PEG 10000		135620
+21	 1,D3	B9			0.1 M TRIS.HCl pH 8.5	30 %(w/v) PEG 10000		135621
+22	 1,D4	B10			0.1 M MES sodium salt pH 6.5	10 %(w/v) PEG 20000		135622
+23	 1,D5	B11	0.1 M Magnesium chloride		0.1 M TRIS.HCl pH 8.5	17 %(w/v) PEG 20000		135623
+24	 1,D6	B12				20 %(w/v) PEG 20000		135624
+25	 2,A1	C1	0.01 M Sodium acetate 			50 %(w/v) MPD	15 %(w/v) Ethanol	135625
+26	 2,A2	C2	0.05 M Sodium acetate 	0.05M Sodium chloride		50 %(w/v) MPD	20 %(w/v) Isopropanol	135626
+27	 2,A3	C3	0.1 M Ammonium phosphate		0.1 M TRIS.HCl pH 8.5	50 %(w/v) MPD		135627
+28	 2,A4	C4				55 %(w/v) MPD		135628
+29	 2,A5	C5	0.01 M Calcium chloride		0.1 M Sodium acetate pH 4.6	60 %(w/v) MPD		135629
+30	 2,A6	C6	0.02 M Sodium acetate 			60 %(w/v) MPD		135630
+31	 2,B1	C7			0.1 M MES sodium salt pH 6.5	70 %(w/v) MPD		135631
+32	 2,B2	C8			0.1 M TRIS.HCl pH 8.5	70 %(w/v) MPD		135632
+33	 2,B3	C9	0.01 M Calcium chloride		0.1 M TRIS.HCl pH 8.5	20 %(w/v) Methanol		135633
+34	 2,B4	C10			0.1 M TRIS.HCl pH 8.5	2 %(w/v) Ethanol		135634
+35	 2,B5	C11			0.1 M HEPES sodium salt pH 7.5	5 %(w/v) Ethanol	5 %(w/v) MPD	135635
+36	 2,B6	C12	0.2 M Sodium chloride		0.1 M TRIS.HCl pH 8.5	5 %(w/v) Ethanol	5 %(w/v) MPD	135636
+37	 2,C1	D1			0.1 M TRIS.HCl pH 8.5	10 %(w/v) Ethanol		135637
+38	 2,C2	D2			0.1 M Sodium acetate pH 4.6	12 %(w/v) Ethanol	4 %(w/v) PEG 400	135638
+39	 2,C3	D3			0.1 M TRIS.HCl pH 8.5	14 %(w/v) Ethanol	5 %(w/v) Glycerol	135639
+40	 2,C4	D4			0.1 M TRIS.HCl pH 8.5	18 %(w/v) Ethanol		135640
+41	 2,C5	D5				20 %(w/v) Ethanol		135641
+42	 2,C6	D6				20 %(w/v) Ethanol	10 %(w/v) Glycerol	135642
+43	 2,D1	D7	0.1 M Sodium acetate 			30 %(w/v) Ethanol	10 %(w/v) PEG 6000	135643
+44	 2,D2	D8				45 %(w/v) Ethanol		135644
+45	 2,D3	D9	0.01 M Sodium acetate 			50 %(w/v) Ethanol		135645
+46	 2,D4	D10	0.05 M Sodium acetate 			60 %(w/v) Ethanol	1.5 %(w/v) PEG 6000	135646
+47	 2,D5	D11	0.1 M Sodium chloride			60 %(w/v) Ethanol		135647
+48	 2,D6	D12	0.01 M Magnesium sulfate		0.1 M TRIS.HCl pH 8.5	2 %(w/v) Isopropanol		135648
+49	 3,A1	E1			0.1 M HEPES sodium salt pH 7.5	5 %(w/v) Isopropanol		135649
+50	 3,A2	E2	0.2 M Calcium chloride		0.1 M Sodium acetate pH 4.6	10 %(w/v) Isopropanol		135650
+51	 3,A3	E3	0.2 M tri-Sodium citrate		0.1 M HEPES sodium salt pH 7.5	10 %(w/v) Isopropanol		135651
+52	 3,A4	E4	0.01 M Magnesium chloride		0.1 M TRIS.HCl pH 8.5	10 %(w/v) Isopropanol		135652
+53	 3,A5	E5	0.05 M Sodium chloride		0.1 M TRIS.HCl pH 8.5	12 %(w/v) Isopropanol		135653
+54	 3,A6	E6	0.2 M tri-Sodium citrate		0.1 M MES sodium salt pH 6.5	15 %(w/v) Isopropanol		135654
+55	 3,B1	E7	0.2 M tri-Sodium citrate		0.1 M HEPES sodium salt pH 7.5	15 %(w/v) Isopropanol		135655
+56	 3,B2	E8	0.2 M Magnesium chloride		0.1 M HEPES sodium salt pH 7.5	15 %(w/v) Isopropanol		135656
+57	 3,B3	E9	0.2 M Ammonium acetate		0.1 M TRIS.HCl pH 8.5	15 %(w/v) Isopropanol		135657
+58	 3,B4	E10	0.2 M Calcium chloride		0.1 M Sodium acetate pH 4.6	20 %(w/v) Isopropanol		135658
+59	 3,B5	E11	0.2 M tri-Sodium citrate		0.1 M HEPES sodium salt pH 7.5	20 %(w/v) Isopropanol		135659
+60	 3,B6	E12	0.1 M Magnesium chloride		0.1 M HEPES sodium salt pH 7.5	25 %(w/v) Isopropanol		135660
+61	 3,C1	F1	0.2 M tri-Sodium citrate		0.1 M MES sodium salt pH 6.5	30 %(w/v) Isopropanol		135661
+62	 3,C2	F2	0.2 M Magnesium chloride		0.1 M HEPES sodium salt pH 7.5	30 %(w/v) Isopropanol		135662
+63	 3,C3	F3	0.2 M Ammonium acetate		0.1 M TRIS.HCl pH 8.5	30 %(w/v) Isopropanol		135663
+64	 3,C4	F4	0.1 M Calcium chloride		0.1 M TRIS.HCl pH 8.5	25 %(w/v) tert-Butanol		135664
+65	 3,C5	F5			0.1 M tri-Sodium citrate pH 5.6	35 %(w/v) tert-Butanol		135665
+66	 3,C6	F6				0.2 M Ammonium phosphate		135666
+67	 3,D1	F7	 			0.2 M K/Na tartrate		135667
+68	 3,D2	F8	 			0.2 M Magnesium acetate		135668
+69	 3,D3	F9				0.4 M Ammonium phosphate		135669
+70	 3,D4	F10				0.4 M K/Na tartrate		135670
+71	 3,D5	F11			0.1 M TRIS.HCl pH 8.5	0.4 M K/Na tartrate		135671
+72	 3,D6	F12	0.2 M tri-Sodium citrate			0.5 M Ammonium phosphate		135672
+73	 4,A1	G1			0.1 M Imidazole.HCl pH 8.0	0.5 M Sodium acetate 		135673
+74	 4,A2	G2			0.1 M HEPES sodium salt pH 7.5	0.7 M tri-Sodium citrate		135674
+75	 4,A3	G3			0.1 M TRIS.HCl pH 8.5	0.7 M Lithium sulfate		135675
+76	 4,A4	G4			0.1 M HEPES sodium salt pH 7.5	0.8 M K/Na tartrate		135676
+77	 4,A5	G5			0.1 M tri-Sodium citrate pH 5.6	1.0 M Ammonium phosphate		135677
+78	 4,A6	G6			0.1 M TRIS.HCl pH 8.5	1.0 M Ammonium phosphate		135678
+79	 4,B1	G7	0.01 M Nickel chloride		0.1 M TRIS.HCl pH 8.5	1.0 M Lithium sulfate		135679
+80	 4,B2	G8			0.1 M Imidazole.HCl pH 8.0	1.0 M Sodium acetate 		135680
+81	 4,B3	G9			0.1 M Sodium acetate pH 4.6	1.0 M Sodium formate		135681
+82	 4,B4	G10			0.1 M MES sodium salt pH 6.5	1.4 M Sodium acetate 		135682
+83	 4,B5	G11			0.1 M HEPES sodium salt pH 7.5	1.4 M tri-Sodium citrate		135683
+84	 4,B6	G12			0.1 M TRIS.HCl pH 8.5	1.5 M Lithium sulfate		135684
+85	 4,C1	H1				1.0 M tri-Sodium citrate		135685
+86	 4,C2	H2			0.1 M MES sodium salt pH 6.5	1.6 M Magnesium sulfate		135686
+87	 4,C3	H3			0.1 M MES sodium salt pH 6.5	1.6 M K/Na tartrate		135687
+88	 4,C4	H4			0.1 M MES sodium salt pH 6.5	2.0 M Ammonium formate		135688
+89	 4,C5	H5			0.1 M TRIS.HCl pH 8.5	2.0 M Ammonium phosphate		135689
+90	 4,C6	H6				2.0 M Sodium formate		135690
+91	 4,D1	H7			0.1 M TRIS.HCl pH 8.5	2.0 M Magnesium chloride		135691
+92	 4,D2	H8	0.2 M Sodium acetate 		0.1 M MES sodium salt pH 6.5	2.0 M Sodium chloride		135692
+93	 4,D3	H9			0.1 M Sodium acetate pH 4.6	2.0 M Sodium formate		135693
+94	 4,D4	H10			0.1 M TRIS.HCl pH 8.5	1.0 M Ammonium phosphate	30 %(w/v) Glycerol	135694
+95	 4,D5	H11			0.1 M HEPES sodium salt pH 7.5	4.0 M Sodium chloride		135695
+96	 4,D6	H12				3.0 M Sodium formate		135696

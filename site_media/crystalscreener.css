@@ -1,0 +1,90 @@
+body { 
+background: #aaa; 
+text-align: center; 
+font: 13px/18px "Helvetica Neue", "Helvetica", sans-serif;
+}
+#wrapper { 
+background-color: #aabbcc; 
+width:90%; 
+text-align: left; 
+margin: auto; 
+}
+#header { 
+background-color: #d6ee38; 
+color: #abc;
+height: 50px; 
+} 
+#account { 
+font-size: 10px; 
+margin: 0 0 3px 8px; 
+}
+
+#leftmenu { 
+padding-top:25px; 
+width: 10%;
+float:left;
+background-color: orange; 
+} 
+#leftmenu ul { 
+padding-left:15px; 
+list-style: none; 
+font-size: 13px; 
+}
+
+#content{ 
+padding-top:25px; 
+padding-left: 5%; 
+padding-right: 5%; 
+width: 80%;
+float:left;
+background-color: #a345f4; 
+} 
+
+#footer { 
+padding: 15px; 
+clear:both;
+background-color: #c345f4; 
+color: yellow;
+font-size: 12px; 
+text-align: center;
+}
+
+a, a:link, a:visited { 
+text-decoration: none; 
+color: inherit; 
+}
+a:hover { 
+color: #fdd700; 
+}
+h2 { 
+font-size: 24px; 
+color: #6699cc; 
+font-weight: bold; 
+line-height: 26px; 
+}
+h3 { 
+font-size: 14px; 
+color: #787878; 
+font-weight: bold; 
+line-height: 20px; 
+}
+
+table { 
+color: white; 
+font: 10px "Helvetica Neue", "Helvetica", sans-serif; 
+}
+td, th { 
+padding: 1px 1px; 
+border: 1px #aaa solid; 
+}
+td.name { 
+background: #caaddd; 
+padding: 3px 3px;
+border: 2px #aaa solid; 
+}
+td.salt { 
+background: #abbadd; 
+}
+td.prec { background: #ccc; }
+
+input { border: 1px inset #ccc; padding: 2px; font: 13px/18px  "Helvetica Neue", "Helvetica", sans-serif; height: 22px;}

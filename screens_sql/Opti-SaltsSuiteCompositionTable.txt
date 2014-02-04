@@ -1,0 +1,103 @@
+The Opti-Salts Suite Composition Table					
+					
+Number	"Plate number, well
+(24-well plates)"	"Well
+(96-well plates)"	Buffer  	Optimizer	"Cat. No.
+(Refill-Hit Solution,
+4 x 12,5 ml tubes)"
+1	 1,A1	A1	1 M Sodium acetate pH 4.6		136001
+2	 1,A2	A2			136002
+3	 1,A3	A3	1 M Tris-HCl pH 8.5		136003
+4	 1,A4	A4	0.1 M Sodium acetate pH 4.6	3.2 M Sodium chloride	136004
+5	 1,A5	A5		3.2 M Sodium chloride	136005
+6	 1,A6	A6	0.1 M Tris-HCl pH 8.5	3.2 M Sodium chloride	136006
+7	 1,B1	A7	0.1 M Sodium acetate pH 4.6	2.4 M Sodium malonate	136007
+8	 1,B2	A8		2.4 M Sodium malonate	136008
+9	 1,B3	A9	0.1 M Tris-HCl pH 8.5	2.4 M Sodium malonate	136009
+10	 1,B4	A10	0.1 M Sodium acetate pH 4.6	1.5 M Magnesium chloride	136010
+11	 1,B5	A11		1.5 M Magnesium chloride	136011
+12	 1,B6	A12	0.1 M Tris-HCl pH 8.5	1.5 M Magnesium chloride	136012
+13	 1,C1	B1	0.1 M Sodium acetate pH 4.6		136013
+14	 1,C2	B2		ddH2O	136014
+15	 1,C3	B3	0.1 M Tris-HCl pH 8.5		136015
+16	 1,C4	B4	0.1 M Sodium acetate pH 4.6	1.6 M Sodium chloride	136016
+17	 1,C5	B5		1.6 M Sodium chloride	136017
+18	 1,C6	B6	0.1 M Tris-HCl pH 8.5	1.6 M Sodium chloride	136018
+19	 1,D1	B7	0.1 M Sodium acetate pH 4.6	1.2 M Sodium malonate	136019
+20	 1,D2	B8		1.2 M Sodium malonate	136020
+21	 1,D3	B9	0.1 M Tris-HCl pH 8.5	1.2 M Sodium malonate	136021
+22	 1,D4	B10	0.1 M Sodium acetate pH 4.6	0.75 Magnesium chloride	136022
+23	 1,D5	B11		0.75 Magnesium chloride	136023
+24	 1,D6	B12	0.1 M Tris-HCl pH 8.5	0.75 Magnesium chloride	136024
+25	 2,A1	C1	0.1 M Sodium acetate pH 4.6	1.2 M Sodium citrate	136025
+26	 2,A2	C2		1.2 M Sodium citrate	136026
+27	 2,A3	C3	0.1 M Tris-HCl pH 8.5	1.2 M Sodium citrate	136027
+28	 2,A4	C4	0.1 M Sodium acetate pH 4.6	2 M Magnesium acetate	136028
+29	 2,A5	C5		2 M Magnesium acetate	136029
+30	 2,A6	C6	0.1 M Tris-HCl pH 8.5	2 M Magnesium acetate	136030
+31	 2,B1	C7	0.1 M Sodium acetate pH 4.6	3.5 M Ammonium chloride	136031
+32	 2,B2	C8		3.5 M Ammonium chloride	136032
+33	 2,B3	C9	0.1 M Tris-HCl pH 8.5	3.5 M Ammonium chloride	136033
+34	 2,B4	C10	0.1 M Sodium acetate pH 4.6	3.5 M Sodium bromide	136034
+35	 2,B5	C11		3.5 M Sodium bromide	136035
+36	 2,B6	C12	0.1 M Tris-HCl pH 8.5	3.5 M Sodium bromide	136036
+37	 2,C1	D1	0.1 M Sodium acetate pH 4.6	0.6 M Sodium citrate	136037
+38	 2,C2	D2		0.6 M Sodium citrate	136038
+39	 2,C3	D3	0.1 M Tris-HCl pH 8.5	0.6 M Sodium citrate	136039
+40	 2,C4	D4	0.1 M Sodium acetate pH 4.6	1 M Magnesium acetate	136040
+41	 2,C5	D5		1 M Magnesium acetate	136041
+42	 2,C6	D6	0.1 M Tris-HCl pH 8.5	1 M Magnesium acetate	136042
+43	 2,D1	D7	0.1 M Sodium acetate pH 4.6	1.75 M Ammonium chloride	136043
+44	 2,D2	D8		1.75 M Ammonium chloride	136044
+45	 2,D3	D9	0.1 M Tris-HCl pH 8.5	1.75 M Ammonium chloride	136045
+46	 2,D4	D10	0.1 M Sodium acetate pH 4.6	1.75 M Sodium bromide	136046
+47	 2,D5	D11		1.75 M Sodium bromide	136047
+48	 2,D6	D12	0.1 M Tris-HCl pH 8.5	1.75 M Sodium bromide	136048
+49	 3,A1	E1	0.1 M Sodium acetate pH 4.6	3.5 M Sodium formate	136049
+50	 3,A2	E2		3.5 M Sodium formate	136050
+51	 3,A3	E3	0.1 M Tris-HCl pH 8.5	3.5 M Sodium formate	136051
+52	 3,A4	E4	0.1 M Sodium acetate pH 4.6	2.2 M Calcium chloride	136052
+53	 3,A5	E5		2.2 M Calcium chloride	136053
+54	 3,A6	E6	0.1 M Tris-HCl pH 8.5	2.2 M Calcium chloride	136054
+55	 3,B1	E7	0.1 M Sodium acetate pH 4.6	4.5 M Ammonium acetate	136055
+56	 3,B2	E8		4.5 M Ammonium acetate	136056
+57	 3,B3	E9	0.1 M Tris-HCl pH 8.5	4.5 M Ammonium acetate	136057
+58	 3,B4	E10	0.1 M Sodium acetate pH 4.6	0.6 M Sodium fluoride	136058
+59	 3,B5	E11		0.6 M Sodium fluoride	136059
+60	 3,B6	E12	0.1 M Tris-HCl pH 8.5	0.6 M Sodium fluoride	136060
+61	 3,C1	F1	0.1 M Sodium acetate pH 4.6	1.75 M Sodium formate	136061
+62	 3,C2	F2		1.75 M Sodium formate	136062
+63	 3,C3	F3	0.1 M Tris-HCl pH 8.5	1.75 M Sodium formate	136063
+64	 3,C4	F4	0.1 M Sodium acetate pH 4.6	1.1 M Calcium chloride	136064
+65	 3,C5	F5		1.1 M Calcium chloride	136065
+66	 3,C6	F6	0.1 M Tris-HCl pH 8.5	1.1 M Calcium chloride	136066
+67	 3,D1	F7	0.1 M Sodium acetate pH 4.6	2.25 M Ammonium acetate	136067
+68	 3,D2	F8		2.25 M Ammonium acetate	136068
+69	 3,D3	F9	0.1 M Tris-HCl pH 8.5	2.25 M Ammonium acetate	136069
+70	 3,D4	F10	0.1 M Sodium acetate pH 4.6	0.3 M Sodium fluoride	136070
+71	 3,D5	F11		0.3 M Sodium fluoride	136071
+72	 3,D6	F12	0.1 M Tris-HCl pH 8.5	0.3 M Sodium fluoride	136072
+73	 4,A1	G1	0.1 M Sodium acetate pH 4.6	2.2 M Potassium chloride	136073
+74	 4,A2	G2		2.2 M Potassium chloride	136074
+75	 4,A3	G3	0.1 M Tris-HCl pH 8.5	2.2 M Potassium chloride	136075
+76	 4,A4	G4	0.1 M Sodium acetate pH 4.6	2.4 M Sodium thiocyanate	136076
+77	 4,A5	G5		2.4 M Sodium thiocyanate	136077
+78	 4,A6	G6	0.1 M Tris-HCl pH 8.5	2.4 M Sodium thiocyanate	136078
+79	 4,B1	G7	0.1 M Sodium acetate pH 4.6	3.5 M Sodium nitrate	136079
+80	 4,B2	G8		3.5 M Sodium nitrate	136080
+81	 4,B3	G9	0.1 M Tris-HCl pH 8.5	3.5 M Sodium nitrate	136081
+82	 4,B4	G10	0.1 M Sodium acetate pH 4.6	4 M Lithium chloride	136082
+83	 4,B5	G11		4 M Lithium chloride	136083
+84	 4,B6	G12	0.1 M Tris-HCl pH 8.5	4 M Lithium chloride	136084
+85	 4,C1	H1	0.1 M Sodium acetate pH 4.6	1.1 M Potassium chloride	136085
+86	 4,C2	H2		1.1 M Potassium chloride	136086
+87	 4,C3	H3	0.1 M Tris-HCl pH 8.5	1.1 M Potassium chloride	136087
+88	 4,C4	H4	0.1 M Sodium acetate pH 4.6	1.2 M Sodium thiocyanate	136088
+89	 4,C5	H5		1.2 M Sodium thiocyanate	136089
+90	 4,C6	H6	0.1 M Tris-HCl pH 8.5	1.2 M Sodium thiocyanate	136090
+91	 4,D1	H7	0.1 M Sodium acetate pH 4.6	1.75 M Sodium nitrate	136091
+92	 4,D2	H8		1.75 M Sodium nitrate	136092
+93	 4,D3	H9	0.1 M Tris-HCl pH 8.5	1.75 M Sodium nitrate	136093
+94	 4,D4	H10	0.1 M Sodium acetate pH 4.6	2 M Lithium chloride	136094
+95	 4,D5	H11		2 M Lithium chloride	136095
+96	 4,D6	H12	0.1 M Tris-HCl pH 8.5	2 M Lithium chloride	136096

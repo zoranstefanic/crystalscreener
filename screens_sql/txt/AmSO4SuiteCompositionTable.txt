@@ -1,0 +1,98 @@
+The AmSO4 Suite Composition Table							
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+1	 1,A1	A1			2.2 M Ammonium sulfate		134401
+2	 1,A2	A2	0.2 M Ammonium acetate		2.2 M Ammonium sulfate		134402
+3	 1,A3	A3	0.2 M Ammonium chloride		2.2 M Ammonium sulfate		134403
+4	 1,A4	A4	0.2 M Ammonium phosphate		2.2 M Ammonium sulfate		134404
+5	 1,A5	A5	0.2 M Ammonium fluoride		2.2 M Ammonium sulfate		134405
+6	 1,A6	A6	0.2 M Ammonium formate		2.2 M Ammonium sulfate		134406
+7	 1,B1	A7	0.2 M di-Ammonium citrate		2.2 M Ammonium sulfate		134407
+8	 1,B2	A8	0.2 M di-Ammonium phosphate		2.2 M Ammonium sulfate		134408
+9	 1,B3	A9	0.2 M Ammonium iodide		2.2 M Ammonium sulfate		134409
+10	 1,B4	A10	0.2 M Ammonium nitrate		2.2 M Ammonium sulfate		134410
+11	 1,B5	A11	0.2 M di-Ammonium tartrate		2.2 M Ammonium sulfate		134411
+12	 1,B6	A12	0.2 M Cadmium chloride		2.2 M Ammonium sulfate		134412
+13	 1,C1	B1	0.2 M Cadmium sulfate		2.2 M Ammonium sulfate		134413
+14	 1,C2	B2	0.2 M Cesium chloride		2.2 M Ammonium sulfate		134414
+15	 1,C3	B3	0.2 M Cesium sulfate		2.2 M Ammonium sulfate		134415
+16	 1,C4	B4	0.2 M Ammonium bromide		2.2 M Ammonium sulfate		134416
+17	 1,C5	B5	0.2 M Lithium acetate		2.2 M Ammonium sulfate		134417
+18	 1,C6	B6	0.2 M Lithium chloride		2.2 M Ammonium sulfate		134418
+19	 1,D1	B7	0.2 M tri-Lithium citrate		2.2 M Ammonium sulfate		134419
+20	 1,D2	B8	0.2 M Lithium nitrate		2.2 M Ammonium sulfate		134420
+21	 1,D3	B9	0.2 M Lithium sulfate		2.2 M Ammonium sulfate		134421
+22	 1,D4	B10	0.2 M Potassium acetate		2.2 M Ammonium sulfate		134422
+23	 1,D5	B11	0.2 M Potassium bromide		2.2 M Ammonium sulfate		134423
+24	 1,D6	B12	0.2 M Potassium chloride		2.2 M Ammonium sulfate		134424
+25	 2,A1	C1	0.2 M tri-Potassium citrate		2.2 M Ammonium sulfate		134425
+26	 2,A2	C2	0.2 M Potassium phosphate		2.2 M Ammonium sulfate		134426
+27	 2,A3	C3	0.2 M Potassium fluoride		2.2 M Ammonium sulfate		134427
+28	 2,A4	C4	0.2 M Potassium formate		2.2 M Ammonium sulfate		134428
+29	 2,A5	C5	0.2 M di-Potassium phosphate		2.2 M Ammonium sulfate		134429
+30	 2,A6	C6	0.2 M Potassium iodide		2.2 M Ammonium sulfate		134430
+31	 2,B1	C7	0.2 M Potassium nitrate		2.2 M Ammonium sulfate		134431
+32	 2,B2	C8	0.2 M K/Na tartrate		2.2 M Ammonium sulfate		134432
+33	 2,B3	C9	0.2 M Potassium sulfate		2.2 M Ammonium sulfate		134433
+34	 2,B4	C10	0.2 M Potassium thiocyanate		2.2 M Ammonium sulfate		134434
+35	 2,B5	C11	0.2 M Sodium acetate 		2.2 M Ammonium sulfate		134435
+36	 2,B6	C12	0.2 M Sodium bromide		2.2 M Ammonium sulfate		134436
+37	 2,C1	D1	0.2 M Sodium chloride		2.2 M Ammonium sulfate		134437
+38	 2,C2	D2	0.2 M tri-Sodium citrate		2.2 M Ammonium sulfate		134438
+39	 2,C3	D3	0.2 M Sodium phosphate 		2.2 M Ammonium sulfate		134439
+40	 2,C4	D4	0.2 M Sodium fluoride		2.2 M Ammonium sulfate		134440
+41	 2,C5	D5	0.2 M Sodium formate		2.2 M Ammonium sulfate		134441
+42	 2,C6	D6	0.2 M di-Sodium phosphate		2.2 M Ammonium sulfate		134442
+43	 2,D1	D7	0.2 M Sodium iodide		2.2 M Ammonium sulfate		134443
+44	 2,D2	D8	0.2 M Sodium malonate		2.2 M Ammonium sulfate		134444
+45	 2,D3	D9	0.2 M Sodium nitrate		2.2 M Ammonium sulfate		134445
+46	 2,D4	D10	0.2 M Sodium sulfate		2.2 M Ammonium sulfate		134446
+47	 2,D5	D11	0.2 M di-Sodium tartate		2.2 M Ammonium sulfate		134447
+48	 2,D6	D12	0.2 M Sodium thiocyanate		2.2 M Ammonium sulfate		134448
+49	 3,A1	E1		0.1 M Citric acid pH 4.0	0.8 M Ammonium sulfate		134449
+50	 3,A2	E2		0.1 M Citric acid pH 5.0	0.8 M Ammonium sulfate		134450
+51	 3,A3	E3		0.1 M MES pH 6.0	0.8 M Ammonium sulfate		134451
+52	 3,A4	E4		0.1 M HEPES pH 7.0	0.8 M Ammonium sulfate		134452
+53	 3,A5	E5		0.1 M TRIS pH 8.0	0.8 M Ammonium sulfate		134453
+54	 3,A6	E6		0.1 M BICINE pH 9.0	0.8 M Ammonium sulfate		134454
+55	 3,B1	E7		0.1 M Citric acid pH 4.0	1.6 M Ammonium sulfate		134455
+56	 3,B2	E8		0.1 M Citric acid pH 5.0	1.6 M Ammonium sulfate		134456
+57	 3,B3	E9		0.1 M MES pH 6.0	1.6 M Ammonium sulfate		134457
+58	 3,B4	E10		0.1 M HEPES pH 7.0	1.6 M Ammonium sulfate		134458
+59	 3,B5	E11		0.1 M TRIS pH 8.0	1.6 M Ammonium sulfate		134459
+60	 3,B6	E12		0.1 M BICINE pH 9.0	1.6 M Ammonium sulfate		134460
+61	 3,C1	F1		0.1 M Citric acid pH 4.0	2.4 M Ammonium sulfate		134461
+62	 3,C2	F2		0.1 M Citric acid pH 5.0	2.4 M Ammonium sulfate		134462
+63	 3,C3	F3		0.1 M MES pH 6.0	2.4 M Ammonium sulfate		134463
+64	 3,C4	F4		0.1 M HEPES pH 7.0	2.4 M Ammonium sulfate		134464
+65	 3,C5	F5		0.1 M TRIS pH 8.0	2.4 M Ammonium sulfate		134465
+66	 3,C6	F6		0.1 M BICINE pH 9.0	2.4 M Ammonium sulfate		134466
+67	 3,D1	F7		0.1 M Citric acid pH 4.0	3.2 M Ammonium sulfate		134467
+68	 3,D2	F8		0.1 M Citric acid pH 5.0	3.2 M Ammonium sulfate		134468
+69	 3,D3	F9		0.1 M MES pH 6.0	3.2 M Ammonium sulfate		134469
+70	 3,D4	F10		0.1 M HEPES pH 7.0	3.2 M Ammonium sulfate		134470
+71	 3,D5	F11		0.1 M TRIS pH 8.0	3.2 M Ammonium sulfate		134471
+72	 3,D6	F12		0.1 M BICINE pH 9.0	3.2 M Ammonium sulfate		134472
+73	 4,A1	G1	0.1 M tri-Sodium citrate		0.5 M Ammonium sulfate	1.0 M Lithium Sulfate	134473
+74	 4,A2	G2			1.0 M Ammonium sulfate		134474
+75	 4,A3	G3		0.1 M Sodium acetate pH 4.6	1.0 M Ammonium sulfate		134475
+76	 4,A4	G4		0.1 M HEPES sodium salt pH 7.5	1.0 M Ammonium sulfate	2 %(w/v) PEG 400	134476
+77	 4,A5	G5		0.1 M TRIS.HCl pH 8.5	1.0 M Ammonium sulfate		134477
+78	 4,A6	G6	0.05 M tri-Sodium citrate		1.2 M Ammonium sulfate	3 %(w/v) Isopropanol	134478
+79	 4,B1	G7		0.1 M TRIS.HCl pH 8.5	1.5 M Ammonium sulfate	15 %(w/v) Glycerol	134479
+80	 4,B2	G8	0.5 M Lithium chloride		1.6 M Ammonium sulfate		134480
+81	 4,B3	G9	1.0 M Lithium sulfate		1.6 M Ammonium sulfate		134481
+82	 4,B4	G10	0.2 M Sodium chloride	0.1 M HEPES sodium salt pH 7.5	1.6 M Ammonium sulfate		134482
+83	 4,B5	G11		0.1 M HEPES sodium salt pH 7.5	1.6 M Ammonium sulfate	2 %(w/v) PEG 1000	134483
+84	 4,B6	G12		0.1 M MES sodium salt pH 6.5	1.8 M Ammonium sulfate		134484
+85	 4,C1	H1	2.0 M Sodium chloride		2.0 M Ammonium sulfate		134485
+86	 4,C2	H2		0.1 M Sodium acetate pH 4.6	2.0 M Ammonium sulfate		134486
+87	 4,C3	H3		0.1 M MES sodium salt pH 6.5	2.0 M Ammonium sulfate	5 %(w/v) PEG 400	134487
+88	 4,C4	H4		0.1 M TRIS.HCl pH 8.5	2.0 M Ammonium sulfate		134488
+89	 4,C5	H5			2.2 M Ammonium sulfate		134489
+90	 4,C6	H6			2.2 M Ammonium sulfate	20 %(w/v) Glycerol	134490
+91	 4,D1	H7	0.1 M tri-Sodium citrate		2.4 M Ammonium sulfate		134491
+92	 4,D2	H8			3.0 M Ammonium sulfate	1 %(w/v) MPD	134492
+93	 4,D3	H9			3.0 M Ammonium sulfate	10 %(w/v) Glycerol	134493
+94	 4,D4	H10		0.1 M HEPES sodium salt pH 7.5	3.5 M Ammonium sulfate		134494
+95	 4,D5	H11		0.1 M MES sodium salt pH 6.5	3.5 M Ammonium sulfate	1 %(w/v) MPD	134495
+96	 4,D6	H12			3.5 M Ammonium sulfate		134496

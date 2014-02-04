@@ -1,0 +1,98 @@
+The MPD Suite Composition Table							
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+1	 1,A1	A1	0.2 M Cadmium chloride		40 %(v/v) MPD		134501
+2	 1,A2	A2	0.2 M Potassium fluoride		40 %(v/v) MPD		134502
+3	 1,A3	A3	0.2 M Ammonium fluoride		40 %(v/v) MPD		134503
+4	 1,A4	A4	0.2 M Lithium chloride		40 %(v/v) MPD		134504
+5	 1,A5	A5	0.2 M Magnesium chloride		40 %(v/v) MPD		134505
+6	 1,A6	A6	0.2 M Sodium chloride		40 %(v/v) MPD		134506
+7	 1,B1	A7	0.2 M Calcium chloride		40 %(v/v) MPD		134507
+8	 1,B2	A8	0.2 M Potassium chloride		40 %(v/v) MPD		134508
+9	 1,B3	A9	0.2 M Ammonium chloride		40 %(v/v) MPD		134509
+10	 1,B4	A10	0.2 M Sodium iodide		40 %(v/v) MPD		134510
+11	 1,B5	A11	0.2 M Potassium iodide		40 %(v/v) MPD		134511
+12	 1,B6	A12	0.2 M Ammonium iodide		40 %(v/v) MPD		134512
+13	 1,C1	B1	0.2 M Sodium thiocyanate		40 %(v/v) MPD		134513
+14	 1,C2	B2	0.2 M Potassium thiocyanate		40 %(v/v) MPD		134514
+15	 1,C3	B3	0.2 M Lithium nitrate		40 %(v/v) MPD		134515
+16	 1,C4	B4	0.2 M Magnesium nitrate		40 %(v/v) MPD		134516
+17	 1,C5	B5	0.2 M Sodium nitrate		40 %(v/v) MPD		134517
+18	 1,C6	B6	0.2 M Potassium nitrate		40 %(v/v) MPD		134518
+19	 1,D1	B7	0.2 M Ammonium nitrate		40 %(v/v) MPD		134519
+20	 1,D2	B8	0.2 M Zinc sulfate		40 %(v/v) MPD		134520
+21	 1,D3	B9	0.2 M Sodium formate		40 %(v/v) MPD		134521
+22	 1,D4	B10	0.2 M Potassium formate		40 %(v/v) MPD		134522
+23	 1,D5	B11	0.2 M Ammonium formate		40 %(v/v) MPD		134523
+24	 1,D6	B12	0.2 M Lithium acetate		40 %(v/v) MPD		134524
+25	 2,A1	C1	0.2 M Magnesium acetate		40 %(v/v) MPD		134525
+26	 2,A2	C2	0.2 M Sodium malonate		40 %(v/v) MPD		134526
+27	 2,A3	C3	0.2 M Sodium acetate 		40 %(v/v) MPD		134527
+28	 2,A4	C4	0.2 M Calcium acetate		40 %(v/v) MPD		134528
+29	 2,A5	C5	0.2 M Potassium acetate		40 %(v/v) MPD		134529
+30	 2,A6	C6	0.2 M Ammonium acetate		40 %(v/v) MPD		134530
+31	 2,B1	C7	0.2 M Lithium sulfate		40 %(v/v) MPD		134531
+32	 2,B2	C8	0.2 M Magnesium sulfate		40 %(v/v) MPD		134532
+33	 2,B3	C9	0.2 M Cesium chloride		40 %(v/v) MPD		134533
+34	 2,B4	C10	0.2 M Nickel chloride		40 %(v/v) MPD		134534
+35	 2,B5	C11	0.2 M Ammonium sulfate		40 %(v/v) MPD		134535
+36	 2,B6	C12	0.2 M di-Sodium tartate		40 %(v/v) MPD		134536
+37	 2,C1	D1	0.2 M K/Na tartrate		40 %(v/v) MPD		134537
+38	 2,C2	D2	0.2 M di-Ammonium tartrate		40 %(v/v) MPD		134538
+39	 2,C3	D3	0.2 M Sodium phosphate 		40 %(v/v) MPD		134539
+40	 2,C4	D4	0.2 M Potassium bromide		40 %(v/v) MPD		134540
+41	 2,C5	D5	0.2 M Sodium bromide		40 %(v/v) MPD		134541
+42	 2,C6	D6	0.2 M di-Potassium phosphate		40 %(v/v) MPD		134542
+43	 2,D1	D7	0.2 M Ammonium phosphate		40 %(v/v) MPD		134543
+44	 2,D2	D8	0.2 M di-Ammonium phosphate		40 %(v/v) MPD		134544
+45	 2,D3	D9	0.2 M tri-Lithium citrate		40 %(v/v) MPD		134545
+46	 2,D4	D10	0.2 M tri-Sodium citrate		40 %(v/v) MPD		134546
+47	 2,D5	D11	0.2 M tri-Potassium citrate		40 %(v/v) MPD		134547
+48	 2,D6	D12	0.2 M di-Ammonium citrate		40 %(v/v) MPD		134548
+49	 3,A1	E1		0.1 M Citric acid pH 4.0	10 %(v/v) MPD		134549
+50	 3,A2	E2		0.1 M Sodium acetate pH 5.0	10 %(v/v) MPD		134550
+51	 3,A3	E3		0.1 M MES pH 6.0	10 %(v/v) MPD		134551
+52	 3,A4	E4		0.1 M HEPES pH 7.0	10 %(v/v) MPD		134552
+53	 3,A5	E5		0.1 M TRIS pH 8.0	10 %(v/v) MPD		134553
+54	 3,A6	E6		0.1 M BICINE pH 9.0	10 %(v/v) MPD		134554
+55	 3,B1	E7		0.1 M Citric acid pH 4.0	20 %(v/v) MPD		134555
+56	 3,B2	E8		0.1 M Sodium acetate pH 5.0	20 %(v/v) MPD		134556
+57	 3,B3	E9		0.1 M MES pH 6.0	20 %(v/v) MPD		134557
+58	 3,B4	E10		0.1 M HEPES pH 7.0	20 %(v/v) MPD		134558
+59	 3,B5	E11		0.1 M TRIS pH 8.0	20 %(v/v) MPD		134559
+60	 3,B6	E12		0.1 M BICINE pH 9.0	20 %(v/v) MPD		134560
+61	 3,C1	F1		0.1 M Citric acid pH 4.0	40 %(v/v) MPD		134561
+62	 3,C2	F2		0.1 M Sodium acetate pH 5.0	40 %(v/v) MPD		134562
+63	 3,C3	F3		0.1 M MES pH 6.0	40 %(v/v) MPD		134563
+64	 3,C4	F4		0.1 M HEPES pH 7.0	40 %(v/v) MPD		134564
+65	 3,C5	F5		0.1 M TRIS pH 8.0	40 %(v/v) MPD		134565
+66	 3,C6	F6		0.1 M BICINE pH 9.0	40 %(v/v) MPD		134566
+67	 3,D1	F7		0.1 M Sodium acetate pH 4.0	65 %(v/v) MPD		134567
+68	 3,D2	F8		0.1 M Sodium acetate pH 5.0	65 %(v/v) MPD		134568
+69	 3,D3	F9		0.1 M MES pH 6.0	65 %(v/v) MPD		134569
+70	 3,D4	F10		0.1 M HEPES pH 7.0	65 %(v/v) MPD		134570
+71	 3,D5	F11		0.1 M TRIS pH 8.0	65 %(v/v) MPD		134571
+72	 3,D6	F12		0.1 M BICINE pH 9.0	65 %(v/v) MPD		134572
+73	 4,A1	G1	0.1 M tri-Sodium citrate	0.1 M HEPES sodium salt pH 7.5	10 %(w/v) MPD 		134573
+74	 4,A2	G2	0.05 M Magnesium chloride	0.1 M TRIS.HCl pH 8.5 	12 %(w/v) MPD 		134574
+75	 4,A3	G3	0.02 M Calcium chloride	0.1 M Sodium acetate pH 4.6	15 %(w/v) MPD 		134575
+76	 4,A4	G4		0.1 M Imidazole.HCl pH 8.0 	15 %(w/v) MPD	5 %(w/v) PEG 4000	134576
+77	 4,A5	G5	0.2 M Ammonium acetate	0.1 M tri-Sodium citrate pH 5.6 	15 %(w/v) MPD 		134577
+78	 4,A6	G6	0.2 M Magnesium acetate	0.1 M MES sodium salt pH 6.5 	15 %(w/v) MPD 		134578
+79	 4,B1	G7	0.2 M tri-Sodium citrate	0.1 M HEPES sodium salt pH 7.5 	15 %(w/v) MPD 		134579
+80	 4,B2	G8	0.1 M tri-Sodium citrate	0.1 M HEPES sodium salt pH 7.5 	20 %(w/v) MPD 		134580
+81	 4,B3	G9		0.1 M Imidazole.HCl pH 8.0 	20 %(w/v) MPD 		134581
+82	 4,B4	G10	0.2 M Sodium chloride		20 %(w/v) MPD	4 %(w/v) Glyerol	134582
+83	 4,B5	G11	0.02 M Calcium chloride	0.1 M Sodium acetate pH 4.6 	30 %(w/v) MPD 		134583
+84	 4,B6	G12	0.2 M Ammonium acetate	0.1 M tri-Sodium citrate pH 5.6 	30 %(w/v) MPD 		134584
+85	 4,C1	H1	0.2 M Magnesium acetate	0.1 M MES sodium salt pH 6.5 	30 %(w/v) MPD 		134585
+86	 4,C2	H2	0.5 M Ammonium sulfate	0.1 M HEPES sodium salt pH 7.5 	30 %(w/v) MPD 		134586
+87	 4,C3	H3	0.2 M tri-Sodium citrate	0.1 M HEPES sodium salt pH 7.5 	30 %(w/v) MPD 		134587
+88	 4,C4	H4		0.1 M HEPES sodium salt pH 7.5 	30 %(w/v) MPD	5 %(w/v) PEG 4000	134588
+89	 4,C5	H5		0.1 M Imidazole.HCl pH 8.0 	30 %(w/v) MPD	10 %(w/v) PEG 4000	134589
+90	 4,C6	H6			30 %(w/v) MPD	20 %(w/v) Ethanol	134590
+91	 4,D1	H7			35 %(w/v) MPD 		134591
+92	 4,D2	H8		0.1 M Imidazole.HCl pH 8.0 	35 %(w/v) MPD 		134592
+93	 4,D3	H9		0.1 M TRIS.HCl pH 8.5 	40 %(w/v) MPD 		134593
+94	 4,D4	H10		0.1 M HEPES sodium salt pH 7.5 	47 %(w/v) MPD 		134594
+95	 4,D5	H11			47 %(w/v) MPD	2 %(w/v) tert-Butanol	134595
+96	 4,D6	H12			50 %(w/v) MPD 		134596

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="content">
+	<table border="1">
+	{% for name in screen_names %}
+		<tr>
+		<td><a href="/screens/{{ name }}">{{ name }}</a></td>
+		</tr>
+	{% endfor %}
+</div>
+{% endblock %}

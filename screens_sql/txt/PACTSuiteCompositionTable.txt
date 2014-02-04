@@ -1,0 +1,98 @@
+The PACT Suite Composition Table						
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer	Precipitant	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+1	 1,A1	A1		0.1M SPG buffer pH 4	25% w/v PEG 1500	135701
+2	 1,A2	A2		0.1M SPG buffer pH 5	25% w/v PEG 1500	135702
+3	 1,A3	A3		0.1M SPG buffer pH 6	25% w/v PEG 1500	135703
+4	 1,A4	A4		0.1M SPG buffer pH 7	25% w/v PEG 1500	135704
+5	 1,A5	A5		0.1M SPG buffer pH 8	25% w/v PEG 1500	135705
+6	 1,A6	A6		0.1M SPG buffer pH 9	25% w/v PEG 1500	135706
+7	 1,B1	A7	0.2M Sodium chloride	0.1M Sodium acetate pH 5	20% w/v PEG 6000	135707
+8	 1,B2	A8	0.2M Ammonium chloride	0.1M Sodium acetate pH 5	20% w/v PEG 6000	135708
+9	 1,B3	A9	0.2M Lithium chloride	0.1M Sodium acetate pH 5	20% w/v PEG 6000	135709
+10	 1,B4	A10	0.2M Magnesium chloride	0.1M Sodium acetate pH 5	20% w/v PEG 6000	135710
+11	 1,B5	A11	0.2M Calcium chloride	0.1M Sodium acetate pH 5	20% w/v PEG 6000	135711
+12	 1,B6	A12	0.01M Zinc chloride	0.1M Sodium acetate pH 5	20% w/v PEG 6000	135712
+13	 1,C1	B1		0.1M MIB buffer pH 4	25% w/v PEG 1500	135713
+14	 1,C2	B2		0.1M MIB buffer pH 5	25% w/v PEG 1500	135714
+15	 1,C3	B3		0.1M MIB buffer pH 6	25% w/v PEG 1500	135715
+16	 1,C4	B4		0.1M MIB buffer pH 7	25% w/v PEG 1500	135716
+17	 1,C5	B5		0.1M MIB buffer pH 8	25% w/v PEG 1500	135717
+18	 1,C6	B6		0.1M MIB buffer pH 9	25% w/v PEG 1500	135718
+19	 1,D1	B7	0.2M Sodium chloride	0.1M MES pH 6	20% w/v PEG 6000	135719
+20	 1,D2	B8	0.2M Ammonium chloride	0.1M MES pH 6	20% w/v PEG 6000	135720
+21	 1,D3	B9	0.2M Lithium chloride	0.1M MES pH 6	20% w/v PEG 6000	135721
+22	 1,D4	B10	0.2M Magnesium chloride	0.1M MES pH 6	20% w/v PEG 6000	135722
+23	 1,D5	B11	0.2M Calcium chloride	0.1M MES pH 6	20% w/v PEG 6000	135723
+24	 1,D6	B12	0.01M Zinc chloride	0.1M MES pH 6	20% w/v PEG 6000	135724
+25	 2,A1	C1		0.1M PCB buffer pH 4	25% w/v PEG 1500	135725
+26	 2,A2	C2		0.1M PCB buffer pH 5	25% w/v PEG 1500	135726
+27	 2,A3	C3		0.1M PCB buffer pH 6	25% w/v PEG 1500	135727
+28	 2,A4	C4		0.1M PCB buffer pH 7	25% w/v PEG 1500	135728
+29	 2,A5	C5		0.1M PCB buffer pH 8	25% w/v PEG 1500	135729
+30	 2,A6	C6		0.1M PCB buffer pH 9	25% w/v PEG 1500	135730
+31	 2,B1	C7	0.2M Sodium chloride	0.1M Hepes pH 7	20% w/v PEG 6000	135731
+32	 2,B2	C8	0.2M Ammonium chloride	0.1M Hepes pH 7	20% w/v PEG 6000	135732
+33	 2,B3	C9	0.2M Lithium chloride	0.1M Hepes pH 7	20% w/v PEG 6000	135733
+34	 2,B4	C10	0.2M Magnesium chloride	0.1M Hepes pH 7	20% w/v PEG 6000	135734
+35	 2,B5	C11	0.2M Calcium chloride	0.1M Hepes pH 7	20% w/v PEG 6000	135735
+36	 2,B6	C12	0.01M Zinc chloride	0.1M Hepes pH 7	20% w/v PEG 6000	135736
+37	 2,C1	D1		0.1M MMT buffer pH 4	25% w/v PEG 1500	135737
+38	 2,C2	D2		0.1M MMT buffer pH 5	25% w/v PEG 1500	135738
+39	 2,C3	D3		0.1M MMT buffer pH 6	25% w/v PEG 1500	135739
+40	 2,C4	D4		0.1M MMT buffer pH 7	25% w/v PEG 1500	135740
+41	 2,C5	D5		0.1M MMT buffer pH 8	25% w/v PEG 1500	135741
+42	 2,C6	D6		0.1M MMT buffer pH 9	25% w/v PEG 1500	135742
+43	 2,D1	D7	0.2M Sodium chloride	0.1M Tris pH 8	20% w/v PEG 6000	135743
+44	 2,D2	D8	0.2M Ammonium chloride	0.1M Tris pH 8	20% w/v PEG 6000	135744
+45	 2,D3	D9	0.2M Lithium chloride	0.1M Tris pH 8	20% w/v PEG 6000	135745
+46	 2,D4	D10	0.2M Magnesium chloride	0.1M Tris pH 8	20% w/v PEG 6000	135746
+47	 2,D5	D11	0.2M Calcium chloride	0.1M Tris pH 8	20% w/v PEG 6000	135747
+48	 2,D6	D12	0.01M Zinc chloride	0.1M Tris pH 8	20% w/v PEG 6000	135748
+49	 3,A1	E1	0.2M Sodium fluoride		20% w/v PEG 3350	135749
+50	 3,A2	E2	0.2M Sodium bromide		20% w/v PEG 3350	135750
+51	 3,A3	E3	0.2M Sodium iodide		20% w/v PEG 3350	135751
+52	 3,A4	E4	0.2M Potassium thiocyanate		20% w/v PEG 3350	135752
+53	 3,A5	E5	0.2M Sodium nitrate		20% w/v PEG 3350	135753
+54	 3,A6	E6	0.2M Sodium formate		20% w/v PEG 3350	135754
+55	 3,B1	E7	0.2M Sodium acetate		20% w/v PEG 3350	135755
+56	 3,B2	E8	0.2M Sodium sulphate		20% w/v PEG 3350	135756
+57	 3,B3	E9	0.2M Potassium/sodium tartrate		20% w/v PEG 3350	135757
+58	 3,B4	E10	0.2M Sodium/potassium phosphate		20% w/v PEG 3350	135758
+59	 3,B5	E11	0.2M Sodium citrate		20% w/v PEG 3350	135759
+60	 3,B6	E12	0.2M Sodium malonate		20% w/v PEG 3350	135760
+61	 3,C1	F1	0.2M Sodium fluoride	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135761
+62	 3,C2	F2	0.2M Sodium bromide	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135762
+63	 3,C3	F3	0.2M Sodium iodide	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135763
+64	 3,C4	F4	0.2M Potassium thiocyanate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135764
+65	 3,C5	F5	0.2M Sodium nitrate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135765
+66	 3,C6	F6	0.2M Sodium formate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135766
+67	 3,D1	F7	0.2M Sodium acetate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135767
+68	 3,D2	F8	0.2M Sodium sulphate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135768
+69	 3,D3	F9	0.2M Potassium/sodium tartrate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135769
+70	 3,D4	F10	0.2M Sodium/potassium phosphate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135770
+71	 3,D5	F11	0.2M Sodium citrate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135771
+72	 3,D6	F12	0.2M Sodium malonate	0.1M Bis Tris propane pH 6.5	20% w/v PEG 3350	135772
+73	 4,A1	G1	0.2M Sodium fluoride	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135773
+74	 4,A2	G2	0.2M Sodium bromide	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135774
+75	 4,A3	G3	0.2M Sodium iodide	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135775
+76	 4,A4	G4	0.2M Potassium thiocyanate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135776
+77	 4,A5	G5	0.2M Sodium nitrate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135777
+78	 4,A6	G6	0.2M Sodium formate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135778
+79	 4,B1	G7	0.2M Sodium acetate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135779
+80	 4,B2	G8	0.2M Sodium sulphate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135780
+81	 4,B3	G9	0.2M Potassium/sodium tartarte	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135781
+82	 4,B4	G10	0.2M Sodium/potassium phosphate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135782
+83	 4,B5	G11	0.2M Sodium citrate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135783
+84	 4,B6	G12	0.2M Sodium malonate	0.1M Bis Tris propane pH 7.5	20% w/v PEG 3350	135784
+85	 4,C1	H1	0.2M Sodium fluoride	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135785
+86	 4,C2	H2	0.2M Sodium bromide	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135786
+87	 4,C3	H3	0.2M Sodium iodide	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135787
+88	 4,C4	H4	0.2M Potassium thiocyanate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135788
+89	 4,C5	H5	0.2M Sodium nitrate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135789
+90	 4,C6	H6	0.2M Sodium formate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135790
+91	 4,D1	H7	0.2M Sodium acetate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135791
+92	 4,D2	H8	0.2M Sodium sulphate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135792
+93	 4,D3	H9	0.2M Potassium/sodium tartrate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135793
+94	 4,D4	H10	0.2M Sodium/potassium phosphate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135794
+95	 4,D5	H11	0.2M Sodium citrate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135795
+96	 4,D6	H12	0.2M Sodium malonate	0.1M Bis Tris propane pH 8.5	20% w/v PEG 3350	135796

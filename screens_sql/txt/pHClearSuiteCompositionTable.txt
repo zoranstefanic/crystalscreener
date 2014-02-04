@@ -1,0 +1,98 @@
+The pHClear Suite Composition Table							
+Number	"Well (96-well plates)"	Salt	Buffer 	Precipitant 	pH	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+1	 A1		0.1 M Citric acid 	1.0 M Sodium chloride	4.0	134801
+2	 A2		0.1 M Citric acid 	1.0 M Sodium chloride	5.0	134802
+3	 A3		0.1 M MES	1.0 M Sodium chloride	6.0	134803
+4	 A4		0.1 M HEPES	1.0 M Sodium chloride	7.0	134804
+5	 A5		0.1 M TRIS	1.0 M Sodium chloride	8.0	134805
+6	 A6		0.1 M BICINE	1.0 M Sodium chloride	9.0	134806
+7	 A7		0.1 M Citric acid 	2.0 M Sodium chloride	4.0	134807
+8	 A8		0.1 M Citric acid 	2.0 M Sodium chloride	5.0	134808
+9	 A9		0.1 M MES	2.0 M Sodium chloride	6.0	134809
+10	 A10		0.1 M HEPES	2.0 M Sodium chloride	7.0	134810
+11	 A11		0.1 M TRIS	2.0 M Sodium chloride	8.0	134811
+12	 A12		0.1 M BICINE	2.0 M Sodium chloride	9.0	134812
+13	 B1		0.1 M Citric acid 	3.0 M Sodium chloride	4.0	134813
+14	 B2		0.1 M Citric acid 	3.0 M Sodium chloride	5.0	134814
+15	 B3		0.1 M MES	3.0 M Sodium chloride	6.0	134815
+16	 B4		0.1 M HEPES	3.0 M Sodium chloride	7.0	134816
+17	 B5		0.1 M TRIS	3.0 M Sodium chloride	8.0	134817
+18	 B6		0.1 M BICINE	3.0 M Sodium chloride	9.0	134818
+19	 B7		0.1 M Citric acid 	4.0 M Sodium chloride	4.0	134819
+20	 B8		0.1 M Citric acid 	4.0 M Sodium chloride	5.0	134820
+21	 B9		0.1 M MES	4.0 M Sodium chloride	6.0	134821
+22	 B10		0.1 M HEPES	4.0 M Sodium chloride	7.0	134822
+23	 B11		0.1 M TRIS	4.0 M Sodium chloride	8.0	134823
+24	 B12		0.1 M BICINE	4.0 M Sodium chloride	9.0	134824
+25	 C1		0.1 M Citric acid 	5 %(w/v) PEG 6000	4.0	134825
+26	 C2		0.1 M Citric acid 	5 %(w/v) PEG 6000	5.0	134826
+27	 C3		0.1 M MES	5 %(w/v) PEG 6000	6.0	134827
+28	 C4		0.1 M HEPES	5 %(w/v) PEG 6000	7.0	134828
+29	 C5		0.1 M TRIS	5 %(w/v) PEG 6000	8.0	134829
+30	 C6		0.1 M BICINE	5 %(w/v) PEG 6000	9.0	134830
+31	 C7		0.1 M Citric acid 	10 %(w/v) PEG 6000	4.0	134831
+32	 C8		0.1 M Citric acid 	10 %(w/v) PEG 6000	5.0	134832
+33	 C9		0.1 M MES	10 %(w/v) PEG 6000	6.0	134833
+34	 C10		0.1 M HEPES	10 %(w/v) PEG 6000	7.0	134834
+35	 C11		0.1 M TRIS	10 %(w/v) PEG 6000	8.0	134835
+36	 C12		0.1 M BICINE	10 %(w/v) PEG 6000	9.0	134836
+37	 D1		0.1 M Citric acid 	20 %(w/v) PEG 6000	4.0	134837
+38	 D2		0.1 M Citric acid 	20 %(w/v) PEG 6000	5.0	134838
+39	 D3		0.1 M MES	20 %(w/v) PEG 6000	6.0	134839
+40	 D4		0.1 M HEPES	20 %(w/v) PEG 6000	7.0	134840
+41	 D5		0.1 M TRIS	20 %(w/v) PEG 6000	8.0	134841
+42	 D6		0.1 M BICINE	20 %(w/v) PEG 6000	9.0	134842
+43	 D7		0.1 M Citric acid 	30 %(w/v) PEG 6000	4.0	134843
+44	 D8		0.1 M Citric acid 	30 %(w/v) PEG 6000	5.0	134844
+45	 D9		0.1 M MES	30 %(w/v) PEG 6000	6.0	134845
+46	 D10		0.1 M HEPES	30 %(w/v) PEG 6000	7.0	134846
+47	 D11		0.1 M TRIS	30 %(w/v) PEG 6000	8.0	134847
+48	 D12		0.1 M BICINE 	30 %(w/v) PEG 6000	9.0	134848
+49	 E1		0.1 M Citric acid 	0.8 M Ammonium sulfate	4.0	134849
+50	 E2		0.1 M Citric acid 	0.8 M Ammonium sulfate	5.0	134850
+51	 E3		0.1 M MES	0.8 M Ammonium sulfate	6.0	134851
+52	 E4		0.1 M HEPES	0.8 M Ammonium sulfate	7.0	134852
+53	 E5		0.1 M TRIS	0.8 M Ammonium sulfate	8.0	134853
+54	 E6		0.1 M BICINE	0.8 M Ammonium sulfate	9.0	134854
+55	 E7		0.1 M Citric acid 	1.6 M Ammonium sulfate	4.0	134855
+56	 E8		0.1 M Citric acid 	1.6 M Ammonium sulfate	5.0	134856
+57	 E9		0.1 M MES	1.6 M Ammonium sulfate	6.0	134857
+58	 E10		0.1 M HEPES	1.6 M Ammonium sulfate	7.0	134858
+59	 E11		0.1 M TRIS	1.6 M Ammonium sulfate	8.0	134859
+60	 E12		0.1 M BICINE	1.6 M Ammonium sulfate	9.0	134860
+61	 F1		0.1 M Citric acid 	2.4 M Ammonium sulfate	4.0	134861
+62	 F2		0.1 M Citric acid 	2.4 M Ammonium sulfate	5.0	134862
+63	 F3		0.1 M MES	2.4 M Ammonium sulfate	6.0	134863
+64	 F4		0.1 M HEPES	2.4 M Ammonium sulfate	7.0	134864
+65	 F5		0.1 M TRIS	2.4 M Ammonium sulfate	8.0	134865
+66	 F6		0.1 M BICINE	2.4 M Ammonium sulfate	9.0	134866
+67	 F7		0.1 M Citric acid 	3.2 M Ammonium sulfate	4.0	134867
+68	 F8		0.1 M Citric acid 	3.2 M Ammonium sulfate	5.0	134868
+69	 F9		0.1 M MES	3.2 M Ammonium sulfate	6.0	134869
+70	 F10		0.1 M HEPES	3.2 M Ammonium sulfate	7.0	134870
+71	 F11		0.1 M TRIS	3.2 M Ammonium sulfate	8.0	134871
+72	 F12		0.1 M BICINE	3.2 M Ammonium sulfate	9.0	134872
+73	 G1		0.1 M Citric acid 	10 %(v/v) MPD	4.0	134873
+74	 G2		0.1 M Sodium acetate 	10 %(v/v) MPD	5.0	134874
+75	 G3		0.1 M MES	10 %(v/v) MPD	6.0	134875
+76	 G4		0.1 M HEPES	10 %(v/v) MPD	7.0	134876
+77	 G5		0.1 M TRIS	10 %(v/v) MPD	8.0	134877
+78	 G6		0.1 M BICINE	10 %(v/v) MPD	9.0	134878
+79	 G7		0.1 M Citric acid 	20 %(v/v) MPD	4.0	134879
+80	 G8		0.1 M Sodium acetate 	20 %(v/v) MPD	5.0	134880
+81	 G9		0.1 M MES	20 %(v/v) MPD	6.0	134881
+82	 G10		0.1 M HEPES	20 %(v/v) MPD	7.0	134882
+83	 G11		0.1 M TRIS	20 %(v/v) MPD	8.0	134883
+84	 G12		0.1 M BICINE	20 %(v/v) MPD	9.0	134884
+85	 H1		0.1 M Citric acid 	40 %(v/v) MPD	4.0	134885
+86	 H2		0.1 M Sodium acetate 	40 %(v/v) MPD	5.0	134886
+87	 H3		0.1 M MES	40 %(v/v) MPD	6.0	134887
+88	 H4		0.1 M HEPES	40 %(v/v) MPD	7.0	134888
+89	 H5		0.1 M TRIS	40 %(v/v) MPD	8.0	134889
+90	 H6		0.1 M BICINE	40 %(v/v) MPD	9.0	134890
+91	 H7		0.1 M Citric acid 	65 %(v/v) MPD	4.0	134891
+92	 H8		0.1 M Sodium acetate 	65 %(v/v) MPD	5.0	134892
+93	 H9		0.1 M MES	65 %(v/v) MPD	6.0	134893
+94	 H10		0.1 M HEPES	65 %(v/v) MPD	7.0	134894
+95	 H11		0.1 M TRIS	65 %(v/v) MPD	8.0	134895
+96	 H12		0.1 M BICINE 	65 %(v/v) MPD	9.0	134896

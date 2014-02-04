@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" href="/site_media/style.css" type="text/css" />
+	{% block extrahead %}{% endblock %}
+	<title>{% block title %}Crystal Screener{% endblock %}</title>
+</head>
+<body>
+  <div id="wrapper">
+	<div id="header">
+	  <h1><a href="/">CRYSTALSCREENER</a></h1>
+	</div>	
+	<div id="account">
+	  {% if user.is_authenticated %}
+		Logged in as <em>{{ user.username }}</em> (<a href="/accounts/logout/">logout</a>)
+	  {% else %}
+		<a href="/accounts/login/">Log in</a> or <a href="/accounts/register/">register</a> to vote.
+	  {% endif %}
+	</div>
+	<div id="leftmenu">
+		<ul>
+		<li><a href="/screens/">screens</a></li>
+		<li><a href="/search/">search</a></li>
+		</ul>
+	</div>
+	{% block content-wrapper %}
+		{% block content %}{% endblock %}
+	{% endblock %}
+	<div id="footer">
+	  <p> &copy; <a href="http://www.ijs.si/">IJS</a>. Designed by <a href="mailto:zoran.stefanic@ijs.si">Zoran Stefanic</a>. 
+		<a href="http://www.djangoproject.com/">Django</a> FTW.
+	  </p>
+	</div> 
+  </div>
+</body>
+</html>

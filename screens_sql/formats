@@ -1,0 +1,56 @@
+Num	ScreenName	Well	Buffer	Salt1	Salt2	Salt3	Salt4	Prec1	Prec2	Prec3	Ph
+
+==> AnionsSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+
+==> CationsSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Buffer 	Precipitant	"Cat. No.  
+
+==> ClassicsIISuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Chemical 1	Chemical 2	Chemical 3	Chemical 4	Chemical 5	"Cat. No.
+
+==> ClassicsLiteSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Buffer	Precipitant 1	Precipitant 2	"Cat. No.
+
+==> ClassicsSuiteCompositionTable.txt <==
+Number "Well (96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 1	Precipitant 2
+
+==> ComPASSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.
+
+==> CryosSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 1	Precipitant 2	Cryoprotectant	"Cat. No.
+
+==> JCSG+SuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Salt 3	Salt 4	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.
+
+==> MbClassIISuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 	"Cat. No.
+
+==> MbClassSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 1 	Precipitant 2	Precipitant 3	"Cat. No.
+
+==> MPDSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.
+
+==> NucleixSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Buffer	Additive 1	Additive 2	Additive 3	Additive 4	Precipitant	"Cat. No.
+
+==> Opti-SaltsSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Buffer  	Optimizer	"Cat. No.
+
+3	 A3		0.1 M MES	1.0 M Sodium chloride	6.0	134803
+==> PACTSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer	Precipitant	"Cat. No.
+
+==> PEGsIISuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt 1	Salt 2	Buffer 	Precipitant 1	Precipitant 2	"Cat. No.
+
+==> PEGsSuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer 	Precipitant 	"Cat. No.
+
+==> pHClearIISuiteCompositionTable.txt <==
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer 	Precipitant 	Final pH 	"Cat. No.
+
+==> pHClearSuiteCompositionTable.txt <==
+Number	"Well (96-well plates)"	Salt	Buffer 	Precipitant 	pH	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"

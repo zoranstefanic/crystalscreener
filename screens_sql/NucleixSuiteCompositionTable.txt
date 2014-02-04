@@ -1,0 +1,103 @@
+The Nucleix Suite Composition Table									
+									
+Number	"Plate number, well
+(24-well plates)"	"Well
+(96-well plates)"	Buffer	Additive 1	Additive 2	Additive 3	Additive 4	Precipitant	"Cat. No.
+(Refill-Hit Solution,
+4 x 12,5 ml tubes)"
+1	 1,A1	A1	0.05 M MES pH 5.6	0.01 M Magnesium chloride 	  			2 M Lithium sulfate 	135801
+2	 1,A2	A2	0.05 M MES pH 5.6	0.01 M Magnesium acetate 	  			2.5 M Ammonium sulfate 	135802
+3	 1,A3	A3	0.05 M MES pH 5.6	0.1 M Magnesium acetate 	  			20 %(v/v) MPD	135803
+4	 1,A4	A4	0.05 M MES pH 5.6	0.2 M Potassium chloride	0.01 M Magnesium sulfate			10 %(v/v) PEG 400	135804
+5	 1,A5	A5	0.05 M MES pH 5.6	0.2 M Potassium chloride	0.01 M Magnesium chloride 			5 %(w/v) PEG 8000	135805
+6	 1,A6	A6	0.05 M MES pH 5.6	0.1 M Ammonium sulfate 	0.01 M Magnesium chloride 			20 %(w/v) PEG 8000	135806
+7	 1,B1	A7	0.05 M MES pH 6.0	0.02 M Magnesium chloride 	  			15 %(v/v) Isopropanol	135807
+8	 1,B2	A8	0.05 M MES pH 6.0	0.1 M Ammonium acetate	0.005 M Magnesium sulfate			0.6 M Sodium chloride	135808
+9	 1,B3	A9	0.05 M MES pH 6.0	0.1 M Potassium chloride	0.01 M Magnesium chloride 			10 %(v/v) PEG 400	135809
+10	 1,B4	A10	0.05 M MES pH 6.0	0.005 M Magnesium sulfate	  			5 %(w/v) PEG 4000	135810
+11	 1,B5	A11	0.05 M Sodium cacodylate pH 6.0	0.01 M Magnesium chloride 	  			1 M Lithium sulfate 	135811
+12	 1,B6	A12	0.05 M Sodium cacodylate pH 6.0	0.01 M Magnesium sulfate	  			1.8 M Lithium sulfate 	135812
+13	 1,C1	B1	0.05 M Sodium cacodylate pH 6.0	0.015 M Magnesium acetate 	  			1.7 M Ammonium sulfate 	135813
+14	 1,C2	B2	0.05 M Sodium cacodylate pH 6.0	0.1 M Potassium chloride	0.025 M Magnesium chloride 			15 %(v/v) Isopropanol	135814
+15	 1,C3	B3	0.05 M Sodium cacodylate pH 6.0	0.04 M Magnesium chloride 	  			5 %(v/v) MPD	135815
+16	 1,C4	B4	0.05 M Sodium cacodylate pH 6.0	0.04 M Magnesium acetate 	  			30 %(v/v) MPD	135816
+17	 1,C5	B5	0.05 M Sodium cacodylate pH 6.0	0.2 M Potassium chloride	0.01 M Calcium chloride 			10 %(w/v) PEG 4000	135817
+18	 1,C6	B6	0.05 M Sodium cacodylate pH 6.5	0.01 M Magnesium acetate 	  			1.3 M Lithium sulfate 	135818
+19	 1,D1	B7	0.05 M Sodium cacodylate pH 6.5	0.01 M Magnesium sulfate	  			2 M Ammonium sulfate 	135819
+20	 1,D2	B8	0.05 M Sodium cacodylate pH 6.5	0.1 M Ammonium acetate	0.015 M Magnesium acetate 			10 %(v/v) Isopropanol	135820
+21	 1,D3	B9	0.05 M Sodium cacodylate pH 6.5	0.2 M Potassium chloride	0.005 M Magnesium chloride 			10 %(w/v) 1,6-Hexanediol	135821
+22	 1,D4	B10	0.05 M Sodium cacodylate pH 6.5	0.08 M Magnesium acetate 	  			15 %(v/v) PEG 400	135822
+23	 1,D5	B11	0.05 M Sodium cacodylate pH 6.5	0.2 M Potassium chloride	0.01 M Magnesium chloride 			10 %(w/v) PEG 4000	135823
+24	 1,D6	B12	0.05 M Sodium cacodylate pH 6.5	0.2 M Ammonium acetate	0.01 M Calcium chloride 			10 %(w/v) PEG 4000	135824
+25	 2,A1	C1	0.05 M Sodium cacodylate pH 6.5	0.08 M Magnesium acetate 	  			30 %(w/v) PEG 4000	135825
+26	 2,A2	C2	0.05 M Sodium cacodylate pH 6.5	0.2 M Potassium chloride	0.1 M Magnesium acetate 			10 %(w/v) PEG 8000	135826
+27	 2,A3	C3	0.05 M Sodium cacodylate pH 6.5	0.2 M Ammonium acetate	0.01 M Magnesium acetate 			30 %(w/v) PEG 8000	135827
+28	 2,A4	C4	0.05 M HEPES Sodium salt pH 7.0	0.05 M Magnesium sulfate aq.	  			1.6 M Lithium sulfate 	135828
+29	 2,A5	C5	0.05 M HEPES Sodium salt pH 7.0	0.01 M Magnesium chloride 	  			4 M Lithium chloride	135829
+30	 2,A6	C6	0.05 M HEPES Sodium salt pH 7.0	0.01 M Magnesium chloride 	  			1.6 M Ammonium sulfate 	135830
+31	 2,B1	C7	0.05 M HEPES Sodium salt pH 7.0	0.005 M Magnesium chloride 	  			25 %(v/v) PEG MME 550	135831
+32	 2,B2	C8	0.05 M HEPES Sodium salt pH 7.0	0.2 M Potassium chloride	0.01 M Magnesium chloride 			20 %(w/v) 1,6-Hexanediol	135832
+33	 2,B3	C9	0.05 M HEPES Sodium salt pH 7.0	0.2 M Ammonium chloride	0.01 M Magnesium chloride 			30 %(w/v) 1,6-Hexanediol	135833
+34	 2,B4	C10	0.05 M HEPES Sodium salt pH 7.0	0.1 M Potassium chloride	0.005 M Magnesium sulfate aq.			15 %(v/v) MPD	135834
+35	 2,B5	C11	0.05 M HEPES Sodium salt pH 7.0	0.1 M Potassium chloride	0.01 M Magnesium chloride 			5 %(v/v) PEG 400	135835
+36	 2,B6	C12	0.05 M HEPES Sodium salt pH 7.0	0.1 M Potassium chloride	0.01 M Calcium chloride 			10 %(v/v) PEG 400	135836
+37	 2,C1	D1	0.05 M HEPES Sodium salt pH 7.0	0.2 M Potassium chloride	0.025 M Magnesium sulfate aq.			20 %(v/v) PEG 200	135837
+38	 2,C2	D2	0.05 M HEPES Sodium salt pH 7.0	0.2 M Ammonium acetate	0.15 M Magnesium acetate 			5 %(w/v) PEG 4000	135838
+39	 2,C3	D3	0.05 M HEPES Sodium salt pH 7.0	0.1 M Ammonium acetate	0.02 M Magnesium chloride 			5 %(w/v) PEG 8000	135839
+40	 2,C4	D4	0.05 M TRIS.HCl pH 7.5	0.01 M Magnesium chloride 	  			1.6 M Ammonium sulfate 	135840
+41	 2,C5	D5	0.05 M TRIS.HCl pH 7.5	0.1 M Potassium chloride	0.015 M Magnesium chloride 			10 %(v/v) PEG MME 550	135841
+42	 2,C6	D6	0.05 M TRIS.HCl pH 7.5	0.01 M Magnesium acetate 	  			5 %(v/v) Isopropanol	135842
+43	 2,D1	D7	0.05 M TRIS.HCl pH 7.5	0.05 M Ammonium acetate	0.01 M Magnesium chloride 			10 %(v/v) MPD	135843
+44	 2,D2	D8	0.05 M TRIS.HCl pH 7.5	0.2 M Potassium chloride	0.05 M Magnesium chloride 			10 %(w/v) PEG 4000	135844
+45	 2,D3	D9	0.05 M TRIS.HCl pH 8.5	0.025 M Magnesium sulfate aq.	  			1.8 M Ammonium sulfate 	135845
+46	 2,D4	D10	0.05 M TRIS.HCl pH 8.5	0.005 M Magnesium sulfate aq.	  			35 %(w/v) 1,6-Hexanediol	135846
+47	 2,D5	D11	0.05 M TRIS.HCl pH 8.5	0.1 M Potassium chloride	0.01 M Magnesium chloride 			30 %(v/v) PEG 400	135847
+48	 2,D6	D12	0.05 M TRIS.HCl pH 8.5	0.2 M Ammonium chloride	0.01 M Calcium chloride 			30 %(w/v) PEG 4000	135848
+49	 3,A1	E1	0.05 M HEPES pH 7.5	2.5 mM Spermine		  		80 mM Magnesium chloride	135849
+50	 3,A2	E2	0.05 M Sodium cacodylate pH 6.0	2.25 mM Spermine	18 mM Magnesium chloride	1 mM Copper sulfate		9 %(v/v) Isopropanol	135850
+51	 3,A3	E3	0.05 M Sodium cacodylate pH 6.5	0.9 mM Spermine	18 mM Magnesium chloride	1.8 mM Cobalt chloride		9 %(v/v) Isopropanol	135851
+52	 3,A4	E4	0.05 M Sodium cacodylate pH 6.5	2.25 mM Spermine	18 mM Magnesium chloride			9 %(v/v) Isopropanol	135852
+53	 3,A5	E5	0.05 M Sodium cacodylate pH 7.0	2.25 mM Spermine	18 mM Magnesium chloride	0.9 mM Cobalt chloride		4.5 %(v/v) MPD	135853
+54	 3,A6	E6	0.05 M Sodium cacodylate pH 6.5	2.25 mM Spermine	36 mM Magnesium chloride			5 %(v/v) PEG 400	135854
+55	 3,B1	E7	0.05 M Sodium succinate pH 5.5	2.0 mM Cobalt chloride	10 mM Magnesium chloride			10 %(v/v) Isopropanol	135855
+56	 3,B2	E8	0.05 M Sodium cacodylate pH 6.0	1.0 mM Spermine	20 mM Magnesium chloride			15 %(v/v) Ethanol	135856
+57	 3,B3	E9	0.05 M Sodium cacodylate pH 7.0	1.0 mM Spermine	20 mM Magnesium chloride	1.0 mM Cobalt chloride		15 %(v/v) Ethanol	135857
+58	 3,B4	E10	0.05 M Sodium cacodylate pH 7.0	1.0 mM Spermidine	5 mM Magnesium chloride			10 %(v/v) tert-Butanol	135858
+59	 3,B5	E11	0.05 M Sodium cacodylate pH 7.0	2.5 mM Spermine	30 mM Magnesium chloride			5 %(v/v) PEG 400	135859
+60	 3,B6	E12	0.05 M Sodium cacodylate pH 6.5	2.0 mM Cobalt chloride	100 mM Magnesium chloride			5 %(v/v) Isopropanol	135860
+61	 3,C1	F1	0.05 M TRIS pH 8.0	1.0 mM Cobalt chloride	10 mM Magnesium chloride			20 %(v/v) Ethanol	135861
+62	 3,C2	F2	0.05 M HEPES pH 7.5	1.0 mM Spermine	20 mM Magnesium chloride			5 %(w/v) PEG 8000	135862
+63	 3,C3	F3	0.05 M Sodium cacodylate pH 6.0	2.5 mM Spermine	20 mM Magnesium chloride			5 %(w/v) PEG 4000	135863
+64	 3,C4	F4	0.05 M Sodium cacodylate pH 6.0	2.5 mM Spermine	10 mM Magnesium chloride	5 mM Calcium chloride		10 %(v/v) Isopropanol	135864
+65	 3,C5	F5	0.05 M Sodium cacodylate pH 7.0	2.25 mM Spermine	9 mM Magnesium chloride	1.8 mM Cobalt chloride 	0.9 mM Spermidine	5 % (v/v) PEG 400	135865
+66	 3,C6	F6	0.05 M Sodium cacodylate pH 6.5	2.5 mM Spermine	10 mM Magnesium chloride	1 mM Copper sulfate		10 %(v/v) Isopropanol	135866
+67	 3,D1	F7	0.05 M Sodium cacodylate pH 6.0	1.0 mM Spermine	20 mM Magnesium chloride	2 mM Calcium chloride		10 %(v/v) 1,5-Hexandiol	135867
+68	 3,D2	F8	0.05 M HEPES pH 7.5	1.0 mM Spermidine	15 mM Magnesium chloride			10 %(v/v) Dioxane	135868
+69	 3,D3	F9	0.05 M Sodium cacodylate pH 6.0	3.0 mM Spermine	15 mM Magnesium chloride			10 %(v/v) PEG 400	135869
+70	 3,D4	F10	0.05 M Sodium cacodylate pH 6.5	18 mM Calcium chloride	2.5 mM Spermine			9 %(v/v) 2-Propanol	135870
+71	 3,D5	F11	0.05 M Sodium cacodylate pH 6.5	1.0 mM Cobalt chloride	2.0 mM Spermine			80 mM Calcium chloride	135871
+72	 3,D6	F12	0.05 M Sodium cacodylate pH 6.5	2.5 mM Cobalt chloride				5 mM Magnesium chloride	135872
+73	 4,A1	G1	0.05 M Sodium cacodylate pH 6.5	1.0 mM Spermine	30 mM Magnesium chloride			1.3 M Lithium sulfate	135873
+74	 4,A2	G2	0.05 M Sodium cacodylate pH 6.0		200 mM Calcium acetate 			5 %(v/v) Isopropanol	135874
+75	 4,A3	G3	0.05 M Sodium cacodylate pH 6.5	1.0 mM Cobalt chloride	100 mM Magnesium chloride			10 %(v/v) Ethanol	135875
+76	 4,A4	G4	0.05 M Sodium cacodylate pH 6.0	2.5 mM Spermidine	10 mM Magnesium chloride			2.5 M Sodium chloride	135876
+77	 4,A5	G5	0.05 M Sodium cacodylate pH 6.5	200 mM tri-Na citrate	10 mM Magnesium chloride			5 %(v/v) Isopropanol	135877
+78	 4,A6	G6	0.05 M Sodium cacodylate pH 6.5	10.0 mM Spermine	15 mM Magnesium chloride			2.0 M Lithium sulfate	135878
+79	 4,B1	G7	0.05 M Sodium cacodylate pH 6.5	1.0 mM Spermine	20 mM Magnesium chloride			2.0 M Ammonium sulfate	135879
+80	 4,B2	G8	0.05 M Sodium cacodylate pH 6.5	1.5 mM Spermine	10 mM Magnesium chloride			3.0 M Ammonium sulfate	135880
+81	 4,B3	G9	0.05 M HEPES pH 7.5	1.0 mM Spermine	15 mM Magnesium chloride			1.0 M Ammonium sulfate	135881
+82	 4,B4	G10	0.05 M Sodium cacodylate pH 6.0		200 mM Calcium acetate 			2.5 M Sodium chloride	135882
+83	 4,B5	G11	0.05 M Sodium cacodylate pH 6.0	1.0 mM Cobalt chloride	200 mM Calcium acetate 			2.0 M Lithium chloride	135883
+84	 4,B6	G12	0.05 M Sodium cacodylate pH 6.5	5.0 mM Spermidine	15 mM Magnesium chloride	1.0  Cobalt chloride		2.0 M Sodium chloride	135884
+85	 4,C1	H1	0.05 M Sodium cacodylate pH 6.5	100 mM Sodium chloride	200 mM Magnesium chloride			20 %(w/v) PEG 1000	135885
+86	 4,C2	H2	0.05 M TRIS pH 7.5	50 mM Magnesium chloride		  		1.0 M Sodium tartrate	135886
+87	 4,C3	H3	0.05 M TRIS pH 7.5	200 mM Magnesium chloride		  		2.5 M Sodium chloride	135887
+88	 4,C4	H4	0.05 M Sodium cacodylate pH 6.0	200 mM Magnesium chloride		  		2.5 M Potassium chloride	135888
+89	 4,C5	H5	0.05 M TRIS pH 8.0	200 mM Magnesium chloride		  		15 %(v/v) Ethanol	135889
+90	 4,C6	H6	0.05 M Sodium cacodylate pH 6.0	5.0 mM Spermidine	15 mM Magnesium chloride			2.0 M Lithium sulfate	135890
+91	 4,D1	H7	0.05 M Sodium cacodylate pH 6.0	0.5 mM Spermine	20 mM Magnesium acetate 	100 mM Sodium chloride		25 %(v/v) MPD	135891
+92	 4,D2	H8	0.05 M Sodium succinate pH 5.5	0.5 mM Spermine	20 mM Magnesium chloride			3.0 M Ammonium sulfate	135892
+93	 4,D3	H9	0.05 M Sodium cacodylate pH 6.5	5 mM Cobalt chloride				2.5 M Potassium chloride	135893
+94	 4,D4	H10	0.05 M Sodium cacodylate pH 6.5	2.0 mM Cobalt chloride	50 mM Magnesium chloride			1.5 M Lithium sulfate	135894
+95	 4,D5	H11	0.05 M Sodium cacodylate pH 6.5	2.0 mM Cobalt chloride	1.0 mM Spermine	30 mM Calcium chloride		2.0 M Lithium chloride	135895
+96	 4,D6	H12	0.05 M Sodium cacodylate pH 6.5	50 mM Spermine		  		10 mM Magnesium chloride	135896

@@ -1,0 +1,98 @@
+The Cations Suite Composition Table					
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Buffer 	Precipitant	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+1	 1,A1	A1	0.1 M Sodium acetate pH 4.6	3.5 M Ammonium chloride	134701
+2	 1,A2	A2	0.1 M Sodium acetate pH 4.6	1.75 M Ammonium chloride	134702
+3	 1,A3	A3	0.1 M Sodium acetate pH 4.6	4.0 M Lithium chloride	134703
+4	 1,A4	A4	0.1 M Sodium acetate pH 4.6	2.0 M Lithium chloride	134704
+5	 1,A5	A5	0.1 M Sodium acetate pH 4.6	1.5 M Magnesium chloride	134705
+6	 1,A6	A6	0.1 M Sodium acetate pH 4.6	0.75 M Magnesium chloride	134706
+7	 1,B1	A7	0.1 M MES pH 6.5	3.5 M Ammonium chloride	134707
+8	 1,B2	A8	0.1 M MES pH 6.5	1.75 M Ammonium chloride	134708
+9	 1,B3	A9	0.1 M MES pH 6.5	4.0 M Lithium chloride	134709
+10	 1,B4	A10	0.1 M MES pH 6.5	2.0 M Lithium chloride	134710
+11	 1,B5	A11	0.1 M MES pH 6.5	1.5 M Magnesium chloride	134711
+12	 1,B6	A12	0.1 M MES pH 6.5	0.75 M Magnesium chloride	134712
+13	 1,C1	B1	0.1 M HEPES pH 7.5	3.5 M Ammonium chloride	134713
+14	 1,C2	B2	0.1 M HEPES pH 7.5	1.75 M Ammonium chloride	134714
+15	 1,C3	B3	0.1 M HEPES pH 7.5	4.0 M Lithium chloride	134715
+16	 1,C4	B4	0.1 M HEPES pH 7.5	2.0 M Lithium chloride	134716
+17	 1,C5	B5	0.1 M HEPES pH 7.5	1.5 M Magnesium chloride	134717
+18	 1,C6	B6	0.1 M HEPES pH 7.5	0.75 M Magnesium chloride	134718
+19	 1,D1	B7	0.1 M TRIS.HCl pH 8.5	3.5 M Ammonium chloride	134719
+20	 1,D2	B8	0.1 M TRIS.HCl pH 8.5	1.75 M Ammonium chloride	134720
+21	 1,D3	B9	0.1 M TRIS.HCl pH 8.5	4.0 M Lithium chloride	134721
+22	 1,D4	B10	0.1 M TRIS.HCl pH 8.5	2.0 M Lithium chloride	134722
+23	 1,D5	B11	0.1 M TRIS.HCl pH 8.5	1.5 M Magnesium chloride	134723
+24	 1,D6	B12	0.1 M TRIS.HCl pH 8.5	0.75 M Magnesium chloride	134724
+25	 2,A1	C1	0.1 M Sodium acetate pH 4.6	4.5 M Ammonium acetate	134725
+26	 2,A2	C2	0.1 M Sodium acetate pH 4.6	2.25 M Ammonium acetate	134726
+27	 2,A3	C3	0.1 M Sodium acetate pH 4.6	2.5 M Lithium acetate	134727
+28	 2,A4	C4	0.1 M Sodium acetate pH 4.6	1.25 M Lithium acetate	134728
+29	 2,A5	C5	0.1 M Sodium acetate pH 4.6	2.0 M Magnesium acetate	134729
+30	 2,A6	C6	0.1 M Sodium acetate pH 4.6	1.0 M Magnesium acetate	134730
+31	 2,B1	C7	0.1 M MES pH 6.5	4.5 M Ammonium acetate	134731
+32	 2,B2	C8	0.1 M MES pH 6.5	2.25 M Ammonium acetate	134732
+33	 2,B3	C9	0.1 M MES pH 6.5	2.5 M Lithium acetate	134733
+34	 2,B4	C10	0.1 M MES pH 6.5	1.25 M Lithium acetate	134734
+35	 2,B5	C11	0.1 M MES pH 6.5	2.0 M Magnesium acetate	134735
+36	 2,B6	C12	0.1 M MES pH 6.5	1.0 M Magnesium acetate	134736
+37	 2,C1	D1	0.1 M HEPES pH 7.5	4.5 M Ammonium acetate	134737
+38	 2,C2	D2	0.1 M HEPES pH 7.5	2.25 M Ammonium acetate	134738
+39	 2,C3	D3	0.1 M HEPES pH 7.5	2.5 M Lithium acetate	134739
+40	 2,C4	D4	0.1 M HEPES pH 7.5	1.25 M Lithium acetate	134740
+41	 2,C5	D5	0.1 M HEPES pH 7.5	2.0 M Magnesium acetate	134741
+42	 2,C6	D6	0.1 M HEPES pH 7.5	1.0 M Magnesium acetate	134742
+43	 2,D1	D7	0.1 M TRIS.HCl pH 8.5	4.5 M Ammonium acetate	134743
+44	 2,D2	D8	0.1 M TRIS.HCl pH 8.5	2.25 M Ammonium acetate	134744
+45	 2,D3	D9	0.1 M TRIS.HCl pH 8.5	2.5 M Lithium acetate	134745
+46	 2,D4	D10	0.1 M TRIS.HCl pH 8.5	1.25 M Lithium acetate	134746
+47	 2,D5	D11	0.1 M TRIS.HCl pH 8.5	2.0 M Magnesium acetate	134747
+48	 2,D6	D12	0.1 M TRIS.HCl pH 8.5	1.0 M Magnesium acetate	134748
+49	 3,A1	E1	0.1 M Sodium acetate pH 4.6	2.2 M Calcium chloride	134749
+50	 3,A2	E2	0.1 M Sodium acetate pH 4.6	1.1 M Calcium chloride	134750
+51	 3,A3	E3	0.1 M Sodium acetate pH 4.6	3.2 M Sodium chloride	134751
+52	 3,A4	E4	0.1 M Sodium acetate pH 4.6	1.6 M Sodium chloride	134752
+53	 3,A5	E5	0.1 M Sodium acetate pH 4.6	1.6 M Zinc sulfate	134753
+54	 3,A6	E6	0.1 M Sodium acetate pH 4.6	0.8 M Zinc sulfate	134754
+55	 3,B1	E7	0.1 M MES pH 6.5	2.2 M Calcium chloride	134755
+56	 3,B2	E8	0.1 M MES pH 6.5	1.1 M Calcium chloride	134756
+57	 3,B3	E9	0.1 M MES pH 6.5	3.2 M Sodium chloride	134757
+58	 3,B4	E10	0.1 M MES pH 6.5	1.6 M Sodium chloride	134758
+59	 3,B5	E11	0.1 M Sodium cacodylate pH 6.5	1.6 M Zinc sulfate	134759
+60	 3,B6	E12	0.1 M Sodium cacodylate pH 6.5	0.8 M Zinc sulfate	134760
+61	 3,C1	F1	0.1 M HEPES pH 7.5	2.2 M Calcium chloride	134761
+62	 3,C2	F2	0.1 M HEPES pH 7.5	1.1 M Calcium chloride	134762
+63	 3,C3	F3	0.1 M HEPES pH 7.5	3.2 M Sodium chloride	134763
+64	 3,C4	F4	0.1 M HEPES pH 7.5	1.6 M Sodium chloride	134764
+65	 3,C5	F5	0.1 M Imidazole pH 7.5	1.6 M Zinc sulfate	134765
+66	 3,C6	F6	0.1 M Imidazole pH 7.5	0.8 M Zinc sulfate	134766
+67	 3,D1	F7	0.1 M TRIS.HCl pH 8.5	2.2 M Calcium chloride	134767
+68	 3,D2	F8	0.1 M TRIS.HCl pH 8.5	1.1 M Calcium chloride	134768
+69	 3,D3	F9	0.1 M TRIS.HCl pH 8.5	3.2 M Sodium chloride	134769
+70	 3,D4	F10	0.1 M TRIS.HCl pH 8.5	1.6 M Sodium chloride	134770
+71	 3,D5	F11	0.1 M BICINE pH 8.5	1.6 M Zinc sulfate	134771
+72	 3,D6	F12	0.1 M BICINE pH 8.5	0.8 M Zinc sulfate	134772
+73	 4,A1	G1	0.1 M Sodium acetate pH 4.6	4.0 M Potassium acetate	134773
+74	 4,A2	G2	0.1 M Sodium acetate pH 4.6	2.0 M Potassium acetate	134774
+75	 4,A3	G3	0.1 M Sodium acetate pH 4.6	2.2 M Potassium chloride	134775
+76	 4,A4	G4	0.1 M Sodium acetate pH 4.6	1.1 M Potassium chloride	134776
+77	 4,A5	G5	0.1 M Sodium acetate pH 4.6	1.2 M Zinc acetate	134777
+78	 4,A6	G6	0.1 M Sodium acetate pH 4.6	0.6 M Zinc acetate	134778
+79	 4,B1	G7	0.1 M MES pH 6.5	4.0 M Potassium acetate	134779
+80	 4,B2	G8	0.1 M MES pH 6.5	2.0 M Potassium acetate	134780
+81	 4,B3	G9	0.1 M MES pH 6.5	2.2 M Potassium chloride	134781
+82	 4,B4	G10	0.1 M MES pH 6.5	1.1 M Potassium chloride	134782
+83	 4,B5	G11	0.1 M MES pH 6.5	1.2 M Zinc acetate	134783
+84	 4,B6	G12	0.1 M MES pH 6.5	0.6 M Zinc acetate	134784
+85	 4,C1	H1	0.1 M HEPES pH 7.5	4.0 M Potassium acetate	134785
+86	 4,C2	H2	0.1 M HEPES pH 7.5	2.0 M Potassium acetate	134786
+87	 4,C3	H3	0.1 M HEPES pH 7.5	2.2 M Potassium chloride	134787
+88	 4,C4	H4	0.1 M HEPES pH 7.5	1.1 M Potassium chloride	134788
+89	 4,C5	H5	0.1 M Imidazole pH 7.5	1.2 M Zinc acetate	134789
+90	 4,C6	H6	0.1 M Imidazole pH 7.5	0.6 M Zinc acetate	134790
+91	 4,D1	H7	0.1 M TRIS.HCl pH 8.5	4.0 M Potassium acetate	134791
+92	 4,D2	H8	0.1 M TRIS.HCl pH 8.5	2.0 M Potassium acetate	134792
+93	 4,D3	H9	0.1 M TRIS.HCl pH 8.5	2.2 M Potassium chloride	134793
+94	 4,D4	H10	0.1 M TRIS.HCl pH 8.5	1.1 M Potassium chloride	134794
+95	 4,D5	H11	0.1 M TRIS.HCl pH 8.5	1.2 M Zinc acetate	134795
+96	 4,D6	H12	0.1 M TRIS.HCl pH 8.5	0.6 M Zinc acetate	134796

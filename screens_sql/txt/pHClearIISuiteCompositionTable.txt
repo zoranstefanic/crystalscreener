@@ -1,0 +1,98 @@
+The pHClear II Suite Composition Table							
+Number	"Plate number, well (24-well plates)"	"Well (96-well plates)"	Salt	Buffer 	Precipitant 	Final pH 	"Cat. No.  (Refill-Hit Solution, 4 x 12,5 ml tubes)"
+1	 1,A1	A1	1.0 M Lithium chloride	0.1 M Citric acid 		4.0	134901
+2	 1,A2	A2	1.0 M Lithium chloride	0.1 M Citric acid 		5.0	134902
+3	 1,A3	A3	1.0 M Lithium chloride	0.1 M MES		6.0	134903
+4	 1,A4	A4	1.0 M Lithium chloride	0.1 M HEPES		7.0	134904
+5	 1,A5	A5	1.0 M Lithium chloride	0.1 M TRIS		8.0	134905
+6	 1,A6	A6	1.0 M Lithium chloride	0.1 M BICINE		9.0	134906
+7	 1,B1	A7	1.0 M Lithium chloride	0.1 M Citric acid 	10 %(w/v) PEG 6000	4.0	134907
+8	 1,B2	A8	1.0 M Lithium chloride	0.1 M Citric acid 	10 %(w/v) PEG 6000	5.0	134908
+9	 1,B3	A9	1.0 M Lithium chloride	0.1 M MES	10 %(w/v) PEG 6000	6.0	134909
+10	 1,B4	A10	1.0 M Lithium chloride	0.1 M HEPES	10 %(w/v) PEG 6000	7.0	134910
+11	 1,B5	A11	1.0 M Lithium chloride	0.1 M TRIS	10 %(w/v) PEG 6000	8.0	134911
+12	 1,B6	A12	1.0 M Lithium chloride	0.1 M BICINE	10 %(w/v) PEG 6000	9.0	134912
+13	 1,C1	B1	1.0 M Lithium chloride	0.1 M Citric acid 	20 %(w/v) PEG 6000	4.0	134913
+14	 1,C2	B2	1.0 M Lithium chloride	0.1 M Citric acid 	20 %(w/v) PEG 6000	5.0	134914
+15	 1,C3	B3	1.0 M Lithium chloride	0.1 M MES	20 %(w/v) PEG 6000	6.0	134915
+16	 1,C4	B4	1.0 M Lithium chloride	0.1 M HEPES	20 %(w/v) PEG 6000	7.0	134916
+17	 1,C5	B5	1.0 M Lithium chloride	0.1 M TRIS	20 %(w/v) PEG 6000	8.0	134917
+18	 1,C6	B6	1.0 M Lithium chloride	0.1 M BICINE	20 %(w/v) PEG 6000	9.0	134918
+19	 1,D1	B7	1.0 M Lithium chloride	0.1 M Citric acid 	30 %(w/v) PEG 6000	4.0	134919
+20	 1,D2	B8	1.0 M Lithium chloride	0.1 M Citric acid 	30 %(w/v) PEG 6000	5.0	134920
+21	 1,D3	B9	1.0 M Lithium chloride	0.1 M MES	30 %(w/v) PEG 6000	6.0	134921
+22	 1,D4	B10	1.0 M Lithium chloride	0.1 M HEPES	30 %(w/v) PEG 6000	7.0	134922
+23	 1,D5	B11	1.0 M Lithium chloride	0.1 M TRIS	30 %(w/v) PEG 6000	8.0	134923
+24	 1,D6	B12	1.0 M Lithium chloride	0.1 M BICINE	30 %(w/v) PEG 6000	9.0	134924
+25	 2,A1	C1		0.1 M Citric acid 	5 %(v/v) Isopropanol	4.0	134925
+26	 2,A2	C2		0.1 M Citric acid 	5 %(v/v) Isopropanol	5.0	134926
+27	 2,A3	C3		0.1 M MES	5 %(v/v) Isopropanol	6.0	134927
+28	 2,A4	C4		0.1 M HEPES	5 %(v/v) Isopropanol	7.0	134928
+29	 2,A5	C5		0.1 M TRIS	5 %(v/v) Isopropanol	8.0	134929
+30	 2,A6	C6		0.1 M BICINE	5 %(v/v) Isopropanol	9.0	134930
+31	 2,B1	C7		0.1 M Citric acid 	10 %(v/v) Isopropanol	4.0	134931
+32	 2,B2	C8		0.1 M Citric acid 	10 %(v/v) Isopropanol	5.0	134932
+33	 2,B3	C9		0.1 M MES	10 %(v/v) Isopropanol	6.0	134933
+34	 2,B4	C10		0.1 M HEPES	10 %(v/v) Isopropanol	7.0	134934
+35	 2,B5	C11		0.1 M TRIS	10 %(v/v) Isopropanol	8.0	134935
+36	 2,B6	C12		0.1 M BICINE	10 %(v/v) Isopropanol	9.0	134936
+37	 2,C1	D1		0.1 M Citric acid 	20 %(v/v) Isopropanol	4.0	134937
+38	 2,C2	D2		0.1 M Citric acid 	20 %(v/v) Isopropanol	5.0	134938
+39	 2,C3	D3		0.1 M MES	20 %(v/v) Isopropanol	6.0	134939
+40	 2,C4	D4		0.1 M HEPES	20 %(v/v) Isopropanol	7.0	134940
+41	 2,C5	D5		0.1 M TRIS	20 %(v/v) Isopropanol	8.0	134941
+42	 2,C6	D6		0.1 M BICINE	20 %(v/v) Isopropanol	9.0	134942
+43	 2,D1	D7		0.1 M Citric acid 	30 %(v/v) Isopropanol	4.0	134943
+44	 2,D2	D8		0.1 M Citric acid 	30 %(v/v) Isopropanol	5.0	134944
+45	 2,D3	D9		0.1 M MES	30 %(v/v) Isopropanol	6.0	134945
+46	 2,D4	D10		0.1 M HEPES	30 %(v/v) Isopropanol	7.0	134946
+47	 2,D5	D11		0.1 M TRIS	30 %(v/v) Isopropanol	8.0	134947
+48	 2,D6	D12		0.1 M BICINE	30 %(v/v) Isopropanol	9.0	134948
+49	 3,A1	E1			0.8 M Na/K phosphate	5.0	134949
+50	 3,A2	E2			0.8 M Na/K phosphate	5.6	134950
+51	 3,A3	E3			0.8 M Na/K phosphate	6.3	134951
+52	 3,A4	E4			0.8 M Na/K phosphate	6.9	134952
+53	 3,A5	E5			0.8 M Na/K phosphate	7.5	134953
+54	 3,A6	E6			0.8 M Na/K phosphate	8.2	134954
+55	 3,B1	E7			1.0 M Na/K phosphate	5.0	134955
+56	 3,B2	E8			1.0 M Na/K phosphate	5.6	134956
+57	 3,B3	E9			1.0 M Na/K phosphate	6.3	134957
+58	 3,B4	E10			1.0 M Na/K phosphate	6.9	134958
+59	 3,B5	E11			1.0 M Na/K phosphate	7.5	134959
+60	 3,B6	E12			1.0 M Na/K phosphate	8.2	134960
+61	 3,C1	F1			1.4 M Na/K phosphate	5.0	134961
+62	 3,C2	F2			1.4 M Na/K phosphate	5.6	134962
+63	 3,C3	F3			1.4 M Na/K phosphate	6.3	134963
+64	 3,C4	F4			1.4 M Na/K phosphate	6.9	134964
+65	 3,C5	F5			1.4 M Na/K phosphate	7.5	134965
+66	 3,C6	F6			1.4 M Na/K phosphate	8.2	134966
+67	 3,D1	F7			1.8 M Na/K phosphate	5.0	134967
+68	 3,D2	F8			1.8 M Na/K phosphate	5.6	134968
+69	 3,D3	F9			1.8 M Na/K phosphate	6.3	134969
+70	 3,D4	F10			1.8 M Na/K phosphate	6.9	134970
+71	 3,D5	F11			1.8 M Na/K phosphate	7.5	134971
+72	 3,D6	F12			1.8 M Na/K phosphate	8.2	134972
+73	 4,A1	G1			1.0 M Sodium malonate	4.0	134973
+74	 4,A2	G2			1.5 M Sodium malonate	4.0	134974
+75	 4,A3	G3			1.9 M Sodium malonate	4.0	134975
+76	 4,A4	G4			2.4 M Sodium malonate	4.0	134976
+77	 4,A5	G5			2.9 M Sodium malonate	4.0	134977
+78	 4,A6	G6			3.4 M Sodium malonate	4.0	134978
+79	 4,B1	G7			1.0 M Sodium malonate	5.0	134979
+80	 4,B2	G8			1.5 M Sodium malonate	5.0	134980
+81	 4,B3	G9			1.9 M Sodium malonate	5.0	134981
+82	 4,B4	G10			2.4 M Sodium malonate	5.0	134982
+83	 4,B5	G11			2.9 M Sodium malonate	5.0	134983
+84	 4,B6	G12			3.4 M Sodium malonate	5.0	134984
+85	 4,C1	H1			1.0 M Sodium malonate	6.0	134985
+86	 4,C2	H2			1.5 M Sodium malonate	6.0	134986
+87	 4,C3	H3			1.9 M Sodium malonate	6.0	134987
+88	 4,C4	H4			2.4 M Sodium malonate	6.0	134988
+89	 4,C5	H5			2.9 M Sodium malonate	6.0	134989
+90	 4,C6	H6			3.4 M Sodium malonate	6.0	134990
+91	 4,D1	H7			1.0 M Sodium malonate	7.0	134991
+92	 4,D2	H8			1.5 M Sodium malonate	7.0	134992
+93	 4,D3	H9			1.9 M Sodium malonate	7.0	134993
+94	 4,D4	H10			2.4 M Sodium malonate	7.0	134994
+95	 4,D5	H11			2.9 M Sodium malonate	7.0	134995
+96	 4,D6	H12			3.4 M Sodium malonate	7.0	134996

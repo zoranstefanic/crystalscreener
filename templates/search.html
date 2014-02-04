@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div>
+	<table border="1">
+	{% for s in screen %}
+		<tr>
+		<td><a href="/screens/{{s.name }}">{{ s.name }}</a></td>
+		<td>{{ s.well }}</td>
+		<td><a href="/search/{{s.buffer }}">{{ s.buffer }}</a></td>
+		<td><a href="/search/{{s.salt1}}">{{ s.salt1 }}</a></td>
+		<td><a href="/search/{{s.salt2}}">{{ s.salt2 }}</a></td>
+		<td>{{ s.prec1 }}</td><td>{{ s.prec2}}</td>
+		<td>{{ s.prec3 }}</td><td>{{ s.screen_ph}}</td>
+		</tr>
+	{% endfor %}
+</div>
+{% endblock %}

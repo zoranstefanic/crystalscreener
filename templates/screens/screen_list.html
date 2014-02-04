@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<div id="content">
+	<table border="1">
+	{% for s in object_list %}
+		<tr>
+		<td>{{ s.screen_name }}</td>
+		<td>{{ s.well }}</td>
+		<td>{{ s.buffer }}</td>
+		<td><a href="/search/{{s.salt1}}">{{ s.salt1 }}</a></td>
+		<td><a href="/search/{{s.salt2}}">{{ s.salt2 }}</a></td>
+		<td><a href="/search/{{s.prec1}}">{{ s.prec1 }}</a></td>
+		<td>{{ s.prec3 }}</td><td>{{ s.screen_ph}}</td>
+		</tr>
+	{% endfor %}
+	</table>
+	</div>
+{% endblock %}
